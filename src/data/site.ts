@@ -4,7 +4,7 @@ import type { NavigationItem } from "@/types";
 // The site's canonical address. vite.config.ts reads this to build the sitemap,
 // and every canonical and social tag is derived from it, so this is the one
 // place the absolute URL is written.
-export const SITE_URL = "https://ideaforge-web.vercel.app";
+export const SITE_URL = "https://ideaforge-web.netlify.app";
 
 // Publisher identity. Idea Forge is the brand; Ahmad is named through it.
 export const publisher = {

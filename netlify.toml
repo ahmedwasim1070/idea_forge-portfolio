@@ -1,0 +1,26 @@
+# Netlify deployment for the Idea Forge site.
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  # Vite 7 requires Node 20.19+. Pinned to the current LTS so Netlify's default
+  # cannot drift onto a version the project has never been built against.
+  NODE_VERSION = "22"
+
+# The site is a single-page app: every route is served the same index.html and
+# resolved by the router in the browser. Without this, the legal URLs printed on
+# the Microsoft Store listings would 404 on a cold visit. Netlify serves a real
+# file when one exists, so /sitemap.xml and /robots.txt are unaffected.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Vite fingerprints everything under /assets, so those files are safe to cache
+# permanently; index.html is left alone so a deploy is picked up immediately.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

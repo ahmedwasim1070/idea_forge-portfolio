@@ -45,7 +45,7 @@ Everything that lists products derives from `src/data/products.ts` — the home 
 
 `sitemap.xml` and the production `robots.txt` are generated at build time by the `idea-forge-sitemap` plugin in `vite.config.ts`, which imports the catalogue directly. `SITE_URL` there is the single place the site's absolute address is written. Hosted legal documents get sitemap entries; external ones (a product hosting its own policy, e.g. RankedPlaces) deliberately do not.
 
-Legal documents are markdown with frontmatter in `src/content/legal/`, named `<slug>-<document-kind>.md`, and referenced from the catalogue record by `file`. A product's legal entry is either `kind: "hosted"` (a file here) or `kind: "external"` (a URL elsewhere). Deployment is Vercel; `vercel.json` rewrites everything to `index.html` for client-side routing, which is what keeps the Store-referenced legal URLs resolving.
+Legal documents are markdown with frontmatter in `src/content/legal/`, named `<slug>-<document-kind>.md`, and referenced from the catalogue record by `file`. A product's legal entry is either `kind: "hosted"` (a file here) or `kind: "external"` (a URL elsewhere). Deployment is Netlify; `netlify.toml` holds the build settings and rewrites everything to `index.html` (status 200) for client-side routing, which is what keeps the Store-referenced legal URLs resolving.
 
 ## Architecture intent
 
