@@ -34,14 +34,14 @@ function Home() {
             <div className="ember-gradient mt-8 h-1 w-24 rounded-full" />
 
             <p className="mt-8 max-w-xl text-lg leading-relaxed text-white/70">
-              Idea Forge is an independent software publisher. We build desktop
-              applications for Windows and projects for the web — designed, built, and
-              maintained in-house.
+              Idea Forge is an independent software studio building fast,
+              focused utilities for modern digital workflows. Every product is
+              designed, shipped, and supported directly in-house.
             </p>
 
             <p className="mt-4 max-w-xl text-base leading-relaxed text-white/55">
-              The desktop applications keep no accounts and collect no analytics. What
-              they remember stays on your own computer.
+              Privacy comes first. We never collect user data beyond what is
+              strictly necessary.
             </p>
 
             <div className="mt-10 flex flex-wrap gap-3">
@@ -61,8 +61,8 @@ function Home() {
             Published work
           </h2>
           <p className="mt-3 text-base leading-relaxed text-body">
-            Everything published under the Idea Forge name, with the privacy policy and
-            terms for each.
+            An exhaustive repository of all software published by Idea Forge,
+            including app legals and info.
           </p>
         </div>
 
@@ -83,11 +83,11 @@ function Home() {
         <div className="grid gap-10 md:grid-cols-[1fr_1fr] md:gap-16">
           <div>
             <h2 className="font-display text-2xl font-semibold tracking-tight text-ink">
-              Managed by {profile.name}
+              Behind the Forge
             </h2>
             <p className="mt-4 max-w-md text-base leading-relaxed text-body">
-              {profile.role}, based in {profile.location}. Every product published here
-              is solo-engineered and maintained.
+              Idea Forge is an independent studio founded and engineered
+              end-to-end by {profile.name}.
             </p>
             <Link
               to="/about"

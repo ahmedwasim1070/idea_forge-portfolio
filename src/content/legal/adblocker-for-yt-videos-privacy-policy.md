@@ -1,133 +1,160 @@
 ---
-title: AdBlocker for YT Videos
+title: YT Videos - AdBlocker Downloader and Music
 document: Privacy Policy
 subtitle: A product of Idea Forge
-effectiveDate: 1 September 2026
-lastUpdated: 1 September 2026
+effectiveDate: 14 September 2026
+lastUpdated: 14 September 2026
 ---
-AdBlocker for YT Videos is a desktop application for Windows, distributed through the Microsoft Store.
+Applies to the YT Videos application for Windows, distributed through the Microsoft Store (Product ID `9PG1Z4WJM4WG`). The application has no supporting online service.
 
 > ### The Short Version
 >
-> AdBlocker for YT Videos has no user accounts, no analytics, and no database. There is no server operated by Idea Forge anywhere in the picture. The application has no backend at all.
+> YT Videos has no user accounts, no analytics, and no database. There is no server operated by Idea Forge anywhere in the picture. The application has no backend at all.
 >
-> Everything the app remembers — including your theme, download quality, saved videos, and YouTube sign-in — stays on your own computer. None of this information is sent to Idea Forge because there is nowhere for it to be sent.
+> Everything the app remembers — your theme, your download quality, your saved videos, and your YouTube sign-in — stays on your own computer. None of it is sent to Idea Forge, because there is nowhere for it to be sent.
 >
 > Three kinds of traffic may leave your device, and none of them is sent to our servers:
 >
-> - The app displays YouTube, YouTube Music, and YouTube Kids in its browser window. Your connection to these services is made directly with Google, just as it would be in a normal web browser.
-> - The ad blocker's filter lists may be retrieved by uBlock Origin Lite from their respective publishers.
+> - The app displays YouTube, YouTube Music, and YouTube Kids in its browser window. Your connection to those services is made directly with Google, exactly as it would be in a normal web browser.
+> - The ad blocker's filter lists are retrieved by uBlock Origin Lite from their own publishers.
 > - The Microsoft Store handles purchases, licence checks, and application update checks.
 
-AdBlocker for YT Videos is an independent product. It is not affiliated with, endorsed by, or sponsored by YouTube, Google LLC, or Microsoft Corporation.
+YT Videos is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
 
 ## 1. Who we are
 
-AdBlocker for YT Videos is published by Idea Forge, an independent developer based in Pakistan.
+YT Videos is published by Idea Forge ("we", "us", "our").
+
+We do not publish a support email address. Everything reaches us through one channel, so nothing gets lost:
 
 **Support & Feedback:**
 
  [Support & Feedback](/support)
 
+Use the Support & Feedback form on that page for privacy questions, data requests, bug reports, and anything else. It is the same form the app links to from *Settings → Support & feedback*, and it is the fastest way to reach a person.
+
 ## 2. What is stored on your device
 
-The app keeps the following information on your computer and nowhere else:
+The app saves the following on your computer. None of it is transmitted to us.
 
 **Appearance preference**
 
-- Whether you selected the light or dark theme.
+- **What:** Whether you chose the light or the dark theme.
+- **Why:** So the app opens in the theme you picked.
+- `Key: yt-app.theme`
 
 **Download quality**
 
-- The maximum video quality selected for new downloads.
+- **What:** The maximum video quality selected for new downloads.
+- **Why:** So the Downloader does not ask again on every save.
+- `Key: yt-app.downloadQuality`
 
 **Background control preference**
 
-- Whether notification-area media controls are enabled.
+- **What:** Whether notification-area media controls are enabled.
+- **Why:** So the choice survives restarting the app.
+- `Key: yt-app.backgroundControl`
 
-**Microsoft Store licence information**
+**Microsoft Store licence state**
 
-- A locally cached licence state that allows eligible features to continue working when you are offline.
-
-**Your YouTube session**
-
-- Cookies, site data, and sign-in state stored inside the application's Microsoft Edge WebView2 browser profile and protected by Windows.
+- **What:** A locally cached copy of which add-ons your Microsoft account is licensed to use.
+- **Why:** So paid features keep working when your device is offline.
+- `Storage: Windows Store licensing cache`
 
 **Downloaded videos**
 
-- Videos you download are saved to your Downloads folder under `YouTube Videos` and remain your files.
+- **What:** Media files you chose to save through the Downloader.
+- **Why:** Kept wherever you asked the Downloader to save them.
+- `Storage: Your local filesystem`
 
-Uninstalling the application removes its preferences and browser profile. It does not remove downloaded videos — those files remain in your Downloads folder because they belong to you.
+## 3. What is stored in your browser profile
 
-## 3. What we do not collect
+Because the app is a desktop client for YouTube, it uses the Microsoft Edge WebView2 control to render YouTube's web pages. That browser engine creates a dedicated user data folder on your computer:
 
-The application has no mechanism to collect the following information and does not collect:
+`%LOCALAPPDATA%\IdeaForge\YT-AppForYoutube\EBWebView`
 
-- **No accounts:** User accounts, profiles, or registration information of any kind.
-- **No analytics or telemetry:** Analytics, telemetry, crash reporting, or usage tracking.
-- **No activity tracking:** Your viewing history, search terms, or watch activity.
-- **No sensitive credentials:** Passwords, payment details, or card numbers.
-- **No account data:** Your Google account details.
-- **No clipboard access:** The contents of your clipboard.
-- **No device inputs:** Camera or microphone input. The application does not request access to either.
+Inside that folder, the browser engine stores:
 
-## 4. Your YouTube account
+- YouTube sign-in session cookies, so you stay signed in across restarts.
+- YouTube preferences, watch history, and playlists stored by YouTube itself.
+- Browser caches, temporary files, and site storage created while browsing.
 
-The application displays YouTube's own website inside a separate browser view. It does not reimplement YouTube, and it does not place itself between you and Google.
+Idea Forge cannot read this data, does not inspect it, and does not transmit it. It is created by and for the WebView2 engine and Google's services, exactly as if you were using Microsoft Edge directly.
 
-- Signing in uses YouTube and Google's own sign-in pages. The application does not see or store your password.
-- The application injects no script into YouTube pages and does not read YouTube page content.
-- The application only knows the current web address when necessary to enable its own controls. That address is not transmitted to Idea Forge.
-- Navigation is restricted to YouTube, YouTube Kids, YouTube Music, Google's sign-in pages, and the required asset hosts used by those services. Other destinations may be refused.
-- The YouTube browser view is deliberately prevented from directly calling application functionality.
-- Signing out is performed inside YouTube in the same way it would be performed in a normal web browser.
+Clearing the app's cache in *Settings → Privacy → Clear browsing data*, or uninstalling the app, removes this folder.
 
-## 5. Ad blocking
+## 4. What leaves your device
 
-Ad blocking is provided by uBlock Origin Lite, a third-party browser extension bundled with the application and loaded into the YouTube browser view. The extension is shipped without modification.
+The app has no telemetry, no tracking pixels, and no crash reporting service. It makes no calls to any server operated by Idea Forge.
 
-uBlock Origin Lite applies its filter rules locally inside the browser view. It may periodically retrieve updated filter lists from their respective publishers. These are public data files, and Idea Forge does not operate or receive information from those requests.
+The only traffic that leaves your computer is:
 
-## 6. Downloads
+### Direct connections to Google and YouTube
 
-Downloading a video uses bundled command-line software running locally on your computer. This includes:
+When you open the app, it loads YouTube's pages. That connection is between your computer and Google's servers.
 
-- `yt-dlp`, which retrieves supported video and audio content.
-- `FFmpeg`, which processes and combines audio and video into the resulting file.
+- It carries your IP address, browser headers, and whatever cookies YouTube has set in your session.
+- It is governed entirely by [Google's Privacy Policy](https://policies.google.com/privacy).
+- Idea Forge is never a proxy, intermediary, or observer in that communication.
 
-These processes run entirely on your own device. The requested video is retrieved directly from the relevant content provider because that is where the content is hosted. The download link is not sent to Idea Forge, and Idea Forge does not maintain a record of your downloads.
+### Ad-block filter list updates
 
-*You are responsible for how you use downloaded material, including respecting applicable copyright, licensing requirements, and the rights of content creators. Please also review the application's Terms of Service.*
+The app bundles uBlock Origin Lite, an open-source content blocker.
 
-## 7. Playback controls and the notification area
+- To keep blocking rules effective, uBlock Origin Lite periodically fetches updated filter lists from its authors' repositories.
+- These requests are anonymous HTTP GET requests for static text files. They contain no identifiers, no personal data, and no information about which videos you watch.
 
-When background controls are enabled, the application can read the Windows media session information already exposed by Windows, which may include:
+### Microsoft Store communications
 
-- Media title
-- Artist information
-- Artwork
+Windows itself contacts the Microsoft Store on behalf of the app to:
 
-This information is used locally to display media controls such as play, pause, and skip. It remains on your device and is never transmitted to Idea Forge.
+- Verify your licence for paid features.
+- Check for and download application updates.
+- Process in-app purchases.
 
-## 8. Microsoft Store
+These requests are handled entirely by Windows and Microsoft, under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). Idea Forge never receives your payment information, credit card numbers, billing address, or full name from Microsoft.
 
-Purchases, subscriptions, renewals, cancellations, refunds, and payment processing are handled by the Microsoft Store under Microsoft's own terms and policies. The application does not see or store your payment information.
+## 5. Downloads
 
-The application may ask Windows for:
+The app includes a video downloader powered by `yt-dlp` and `FFmpeg`, bundled locally.
 
-- Which application add-ons your Microsoft account is licensed to use.
-- Current prices for available add-ons in your local currency.
+- All downloading and format conversion takes place entirely on your device.
+- No video URL, video title, or downloaded file is ever sent to Idea Forge.
+- Downloaded files are saved to your chosen folder on your local drive and are never uploaded anywhere.
+
+## 6. Accounts
+
+You do not need an Idea Forge account to use the app. There is no sign-up form, no username, and no password.
+
+If you sign in to YouTube inside the app, that sign-in is between you and Google. Idea Forge never sees, handles, or stores your Google credentials.
+
+## 7. Analytics and tracking
+
+- **No Idea Forge telemetry:** We do not track what you watch, what you search for, what you download, how long you use the app, or what buttons you click.
+- **No third-party trackers:** The app shell contains no Google Analytics, no Mixpanel, no Sentry, no Facebook SDK, and no advertising network SDKs.
+- **YouTube's own tracking:** YouTube's web pages running inside the app do what they normally do in a browser. That activity is governed by Google's policies, not ours. Where your licence allows the ad blocker, common advertising and tracking scripts are blocked by uBlock Origin Lite rules locally.
+
+## 8. Purchases and licensing
+
+All in-app purchases are handled by the Microsoft Store.
+
+- We do not see your credit card number, bank details, or billing address.
+- Microsoft informs the app whether the current Microsoft account holds an active entitlement for a given feature (for example, monthly, annual, or lifetime Premium).
+- The app caches that licence entitlement locally so you do not lose access when offline.
+- When you open the store page inside the app, the app queries the Microsoft Store API to display:
+- Whether the current account already owns each add-on.
+- Current prices for the available add-ons, in your local currency.
 - Whether an application update is available or pending.
 
-Redeeming a promotional code opens Microsoft's own redemption process and is handled by Microsoft. The application only determines the resulting licence state through Windows after the redemption process is complete.
+Redeeming a promotional code opens Microsoft's own redemption page and is handled entirely by Microsoft. The application only reads the resulting licence state back from Windows afterwards; it never decides for itself that a code was good.
 
 Reference: [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement).
 
 ## 9. Children
 
-The application offers YouTube Kids as one of its available destinations. YouTube Kids is Google's own service and is governed by Google's policies.
+The application offers YouTube Kids as one of its destinations. YouTube Kids is Google's own service and is governed by Google's policies.
 
-The application itself is a general-purpose viewer. It collects no personal information from users of any age and does not require accounts to be created with Idea Forge. Parents and guardians should be aware that ad blocking, downloads, and other paid features are purchased and managed through the Microsoft Store account associated with the device.
+The application itself is a general-purpose viewer. It collects no personal information from users of any age, and it requires no account with Idea Forge. Parents and guardians should be aware that ad blocking, downloads, and the other paid features are purchased and managed through the Microsoft Store account signed in on the device.
 
 ## 10. No backend and no server logs
 
@@ -138,46 +165,47 @@ This application has no server component operated by Idea Forge. There is:
 - No backend account system.
 - No operational server log recording your use of the application.
 
-## 11. Your rights and how to use them
+## 11. Your rights, and how to use them
 
-Because the application's data is stored locally on your device, many actions can be performed directly without submitting a request to us:
+Your data stays on your device, so you are in direct control of it:
 
-- **Access:** Your locally stored application data remains within your Windows user profile.
-- **Correction and deletion:** Change relevant preferences in the application's Settings or uninstall the application where applicable.
-- **Sign-out:** Sign out of YouTube inside the application in the same way you would in a browser.
-- **Purchases and subscriptions:** Manage eligible Microsoft services through your Microsoft account at [account.microsoft.com/services](https://account.microsoft.com/services).
+- **Access and portability:** Everything the app stores is in your Windows user profile.
+- **Correction and deletion:** Change the relevant preferences in the app's Settings, or uninstall the app to remove the rest.
+- **Sign-out:** Sign out of YouTube inside the app, exactly as you would in a browser.
+- **Purchases and billing:** Manage subscriptions and purchases through your Microsoft account at [account.microsoft.com/services](https://account.microsoft.com/services).
 
-GDPR, UK GDPR, CCPA, and similar privacy rights apply where applicable to you. Because Idea Forge does not operate a backend that stores your personal application data, requests may generally be answered by explaining where the relevant information is stored on your own device. Requests may be submitted through the Support & Feedback form.
+If you are somewhere that grants you statutory rights over personal data (GDPR, UK GDPR, CCPA, and similar), those rights apply to us too. Since we hold no personal data about you on any system of ours, in most cases there will be nothing for us to produce or erase — send the request through the Support & Feedback form in Section 1 and we will confirm that in writing and act on anything that does apply.
 
 ## 12. Security
 
-The application uses the security mechanisms available through Windows, Microsoft Store distribution, and encrypted network connections:
+The application relies on the security mechanisms Windows, the Microsoft Store, and encrypted connections already provide:
 
-- Application data is protected by your Windows user account.
-- Browser profile data, including YouTube cookies and site data, is protected by the security mechanisms provided by Windows and Microsoft Edge WebView2.
-- Network connections use HTTPS where supported by the relevant service.
-- Microsoft Store packages are signed and integrity-checked through Microsoft's distribution and Windows security mechanisms.
+- Application data lives in your Windows user profile, protected by your operating system account.
+- Browser profile data, including YouTube cookies and site data, is protected by Windows and Microsoft Edge WebView2.
+- Network connections use HTTPS. The application refuses to navigate its browser view to a non-HTTPS address.
+- Packages installed from the Microsoft Store are signed and integrity-checked by Windows.
 
-Anyone with access to your unlocked Windows user account may potentially have access to application data in the same general way they could access information stored in your browser. You should protect your Windows account and device appropriately.
+No system is perfectly secure. Anyone with access to your unlocked Windows account has access to whatever that account can read, including this app's data.
 
 ## 13. Third-party components
 
-The application bundles and uses open-source and third-party software, including components such as:
+The application bundles open-source software, including:
 
 - `uBlock Origin Lite`
 - `yt-dlp`
 - `FFmpeg`
 
-Additional components may also be included where required. Licence notices, applicable licence text, and information about bundled components are available within the application under *Settings → License*.
+Licence notices, the applicable licence texts, and the version of each bundled component are available inside the application under *Settings → License*.
 
 ## 14. Changes to this policy
 
-Changes to this Privacy Policy will be reflected by updating the Effective date or Last updated date at the top of this page. Material changes may also be noted in Microsoft Store release notes where appropriate. We encourage you to review this page periodically for updates.
+We may update this policy as the app changes. The effective date at the top always reflects the current version, and material changes — in particular any change to what data leaves your device — will be called out in the release notes on the Microsoft Store listing.
 
 ## 15. Contact
 
 - **Support & Feedback:** [Support & Feedback](/support)
-- **Terms of Service:** [https://sites.google.com/view/ideaforge-web/terms-of-service](https://sites.google.com/view/ideaforge-web/terms-of-service)
-- **Publisher:** Idea Forge (Independent developer based in Pakistan)
+- **Terms of Service:** [Terms of Service](/products/yt-app-for-youtube/terms-of-service)
+- **Publisher:** Idea Forge
+- **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PG1Z4WJM4WG](https://apps.microsoft.com/detail/9PG1Z4WJM4WG)
 
-> AdBlocker for YT Videos is not affiliated with, endorsed by, or sponsored by YouTube, Google LLC, or Microsoft Corporation. YouTube is a trademark of Google LLC.
+> YT Videos is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.

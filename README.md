@@ -10,9 +10,9 @@ The website serves as the central home for Idea Forge's Microsoft Store applicat
 
 ## 🌐 Live Deployment
 
-| Environment    | Status        | Access                                    |
-| :------------- | :------------ | :---------------------------------------- |
-| **Production** | 🟢 **Online** | [**IdeaForge Software**]([https://ideaforge-software.netlify.app/]) |
+| Environment    | Status        | Access                                                          |
+| :------------- | :------------ | :-------------------------------------------------------------- |
+| **Production** | 🟢 **Online** | [ideaforge-software]([https://ideaforge-software.netlify.app/]) |
 
 ---
 
@@ -20,23 +20,23 @@ The website serves as the central home for Idea Forge's Microsoft Store applicat
 
 ### Core Architecture
 
-* **Framework:** React 19
-* **Build Tool:** Vite 7
-* **Language:** TypeScript
-* **Routing:** React Router
-* **Styling:** Tailwind CSS v4
-* **Hosting:** Vercel
+- **Framework:** React 19
+- **Build Tool:** Vite 7
+- **Language:** TypeScript
+- **Routing:** React Router
+- **Styling:** Tailwind CSS v4
+- **Hosting:** Vercel
 
 ---
 
 ### Content & UI
 
-* **Product Catalogue:** Static typed product data
-* **Legal Documents:** Markdown
-* **Markdown Rendering:** React Markdown
-* **Markdown Support:** remark-gfm
-* **Icons:** Lucide React
-* **Product Architecture:** Shared catalogue-driven product pages
+- **Product Catalogue:** Static typed product data
+- **Legal Documents:** Markdown
+- **Markdown Rendering:** React Markdown
+- **Markdown Support:** remark-gfm
+- **Icons:** Lucide React
+- **Product Architecture:** Shared catalogue-driven product pages
 
 ---
 

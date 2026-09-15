@@ -1,154 +1,157 @@
 ---
-title: AdBlocker for YT Videos
+title: YT Videos - AdBlocker Downloader and Music
 document: Terms of Service
 subtitle: A product of Idea Forge
-effectiveDate: 1 September 2026
-lastUpdated: 1 September 2026
+effectiveDate: 14 September 2026
+lastUpdated: 14 September 2026
 ---
-These Terms of Service govern your installation and use of AdBlocker for YT Videos.
+Applies to the YT Videos application for Windows, distributed through the Microsoft Store (Product ID `9PG1Z4WJM4WG`). The application has no supporting online service.
 
 ## 1. Agreement
 
-By installing or using AdBlocker for YT Videos ("the app"), you agree to these Terms of Service. These terms are in addition to the Microsoft Store Terms of Sale and the Microsoft Services Agreement, which govern your purchase and use of the Microsoft Store itself.
+By installing or using YT Videos ("the app"), you agree to these terms. They are in addition to the Microsoft Store Terms of Sale and the Microsoft Services Agreement, which govern your purchase and your use of the Microsoft Store itself.
 
 If you do not agree to these terms, do not install or use the app.
 
 ## 2. What the app is
 
-AdBlocker for YT Videos is a Windows desktop client for YouTube. It provides access to YouTube, YouTube Music, and YouTube Kids in a dedicated application window with its own features and controls, including:
+YT Videos is a Windows desktop client for YouTube. It puts YouTube, YouTube Music, and YouTube Kids in a dedicated application window with its own chrome and controls, and adds the things a browser tab cannot:
 
 - Ad blocking
 - A pop-out player
-- Background play
+- Background play, with desktop-wide media keys
 - Video downloading
 
-The app is a viewer. It does not host, mirror, or re-serve video content. Content is delivered from YouTube's own services directly to your computer, in the same general manner as when accessing YouTube through a web browser.
+The app is a viewer. It does not host, mirror, re-serve, or index video content. Content is delivered from YouTube's own services directly to your computer, in the same general way as when you use YouTube in a web browser.
 
 ## 3. Not affiliated
 
-Idea Forge is an independent developer. AdBlocker for YT Videos is not affiliated with, endorsed by, authorised by, sponsored by, or maintained by YouTube, Google LLC, or Microsoft Corporation.
-
-YouTube is a trademark of Google LLC and is used only to describe the service the application helps users access.
+Idea Forge is an independent developer. YT Videos is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
 
 ## 4. Licence
 
-Subject to these Terms of Service, you are granted a personal, non-exclusive, non-transferable licence to install and use the app on devices associated with your Microsoft account, as permitted by the Microsoft Store.
+Subject to these terms, you are granted a personal, non-exclusive, non-transferable licence to install and use the app on devices associated with your Microsoft account, as permitted by the Microsoft Store. Purchasing a subscription or licence — whether lifetime, annual, or monthly — grants only a personal licence to use the application and does not give any authority or right to resell the software or make copies of it.
 
 You may not:
 
 - Copy, sell, rent, lease, sublicense, or redistribute the app;
-- Reverse-engineer, decompile, or disassemble the app, except where such rights cannot legally be excluded;
-- Circumvent licensing mechanisms or attempt to obtain paid features without paying for them;
-- Use the app to violate applicable law or infringe the rights of another person or organisation.
+- Reverse-engineer, decompile, or disassemble the app, except where those rights cannot legally be excluded;
+- Circumvent licensing mechanisms, or attempt to obtain paid features without paying for them;
+- Use the app to break the law or to infringe the rights of another person or organisation.
 
-The application may include bundled open-source components. Those components are licensed under their respective licences, which are available within the app under *Settings → License*. The licences governing those third-party components apply independently of this section.
+The app bundles open-source components. Those are licensed under their own licences, which are reproduced inside the app under *Settings → License*, and those licences apply independently of this section.
 
 ## 5. Third-party services and content
 
-YouTube, YouTube Music, YouTube Kids, and the Microsoft Store are operated by third parties under their own terms and policies. Your use of those services is between you and the respective service provider.
+YouTube, YouTube Music, YouTube Kids, and the Microsoft Store are operated by third parties under their own terms and policies. Your use of those services is between you and the provider of each.
 
-Those services may change, restrict access, experience interruptions, or become unavailable without notice to Idea Forge. If such changes affect the operation of the app, this does not constitute a breach of these Terms of Service by Idea Forge.
+Those services may change, restrict access, be interrupted, or become unavailable without notice to Idea Forge. Where that affects how the app works, it is not a breach of these terms by Idea Forge.
 
-You remain responsible for complying with YouTube's applicable Terms of Service when using YouTube through this application.
+You remain responsible for complying with YouTube's own Terms of Service when you use YouTube through this app.
 
-## 6. Features, free and paid
+## 6. Free features and Premium
 
-Some features may be available without an additional purchase, while other features may require a Microsoft Store purchase.
+Some features are free for everyone. Others require a Microsoft Store purchase.
 
-### Free Features
+**Free for everyone:** YouTube, YouTube Music, and YouTube Kids, each as its own destination in the app's window; signing in through YouTube's own pages; and muting the app.
 
-The following features are intended to be available without an additional purchase:
+**Premium:** ad blocking, video downloading, the pop-out player, background play, notification-area playback controls, desktop-wide media keys, the dark theme, and priority support.
 
-- Access to YouTube, YouTube Music, and YouTube Kids in the application's dedicated window
-- Muting the application
-
-### Premium Features
-
-Premium features may be available through Microsoft Store purchases and may include:
-
-- Ad blocking
-- Video downloading
-- The pop-out player
-- Background play
-- Desktop-wide shortcut keys
-- Dark theme
-- Priority support
-
-The availability and classification of features may change in future versions of the application. Where applicable, features already purchased will remain available for the period or licence entitlement associated with that purchase.
+We may change which features are free and which are Premium in future releases. We will not remove a feature from a plan you have already paid for, during the term you have paid for.
 
 ## 7. Downloads and your responsibility
 
-The app can save supported video content to your computer. It is a general-purpose tool. Whether you may lawfully download, keep, or otherwise use a particular video depends on the content, the rights of its creators or rights holders, the terms applicable to the service, and the laws that apply to you.
+The app can save supported video content to your computer. It is a general-purpose tool. Whether you may lawfully download, keep, or otherwise use a particular video depends on the content, on the rights of its creators and rights holders, on the terms of the service it came from, and on the laws that apply to you.
 
-You are solely responsible for ensuring that you have the necessary rights or permissions to download and keep any material you save. Do not use the app to infringe copyright or other intellectual property rights.
+You are solely responsible for making sure you have the rights or permissions you need for anything you save. Do not use the app to infringe copyright or other intellectual property rights.
 
-Idea Forge does not host, index, or supply the videos you choose to access or download and accepts no responsibility for your use of downloaded material.
+Idea Forge does not host, index, or supply the videos you choose to watch or download, and accepts no responsibility for what you do with downloaded material.
 
 ## 8. Ad blocking
 
-The application bundles uBlock Origin Lite, an independent open-source browser extension. Where your licence allows the feature, the extension is loaded into the YouTube browser view. Ad blocking occurs locally inside the browser view on your computer.
+The app bundles uBlock Origin Lite, an independent open-source browser extension, shipped exactly as its authors published it. Where your licence allows the feature, it is loaded into the YouTube browser view and applies its rules locally, on your computer.
 
-Ad blocking functionality may change or stop working at any time. Filter lists and the websites they apply to can change without notice. Ad blocking is provided as available and is not guaranteed to block every advertisement or any particular type of advertisement.
+Ad blocking may change or stop working at any time. Filter lists and the sites they apply to change without notice. It is provided as available, and it is not guaranteed to block every advertisement or any particular kind of advertisement.
 
 ## 9. Your data
 
-Your application preferences, YouTube sign-in information, and downloaded files remain on your own device. The app does not operate an Idea Forge backend for storing this information and does not transmit this data to Idea Forge.
+Your preferences, your YouTube sign-in, and your downloaded files stay on your own device. There is no Idea Forge backend storing any of it, and none of it is transmitted to Idea Forge.
 
-For more information, please review the [Privacy Policy](https://sites.google.com/view/ideaforge-web/privacy-policy).
+For the detail, read the [Privacy Policy](/products/yt-app-for-youtube/privacy-policy).
 
-## 10. Purchases, renewals and refunds
+## 10. Purchases, subscriptions, and billing
 
-All purchases are processed through the Microsoft Store. Idea Forge does not receive, process, or store your payment details.
+All purchases are made through the Microsoft Store. We are not the merchant of record, we do not process payments, and we never see your payment details.
 
-- **Subscriptions:** Add-ons may renew automatically until you cancel them, depending on the Microsoft Store terms applicable to your purchase. Manage eligible subscriptions directly at [account.microsoft.com/services](https://account.microsoft.com/services).
-- **Refunds:** Governed by Microsoft's applicable refund policies and must generally be requested through Microsoft rather than Idea Forge.
-- **Promotional codes:** Issued and redeemed through Microsoft's own redemption process. The app only determines the resulting licence entitlement through Windows or Microsoft Store services.
+- **No resale or copying rights:** Even though a user has bought a subscription or licence — whether lifetime, annual, or monthly — it does not give any authority to resell the software, transfer it, or make copies of it.
+- **Plans:** Premium is offered as a monthly subscription, as an annual subscription (currently including a free trial), and as a one-time lifetime purchase. Prices shown in the app come live from the Microsoft Store in your local currency, and those are the prices that apply.
+- **Free trial:** Where a trial is offered, you are not charged at the start. Unless you cancel before it ends, the subscription begins and the first charge is taken automatically.
+- **Renewal:** Subscriptions renew automatically at the end of each term until cancelled.
+- **Cancellation:** Cancel at any time at [account.microsoft.com/services](https://account.microsoft.com/services). Cancelling stops future renewals; you keep Premium until the end of the current paid term. Cancellation is a Microsoft function — the app cannot cancel a subscription for you.
+- **Refunds:** Refunds follow the Microsoft Store's refund policy and are requested from Microsoft, not from us.
+- **Failed payments:** If a renewal charge fails, Microsoft may cancel the subscription at the end of the period, after which the app reverts to its free features. Your downloaded videos and local preferences are not deleted.
+- **Existing subscribers:** Microsoft does not support switching between subscription tiers: moving to a different plan means cancelling the old one yourself and then buying the new one. If you buy a second plan without cancelling the first, Microsoft will keep billing you for both — the app can neither see nor stop that second charge.
+- **Lifetime purchases:** Lifetime purchases are one-time and non-recurring, tied to the Microsoft account that bought them, and remain valid for that account.
+- **Promotional codes:** Issued and redeemed through Microsoft's own redemption process. The app only reads the resulting licence back from Windows; it never decides for itself that a code was good.
 
 ## 11. Updates
 
-Application updates are delivered through the Microsoft Store. Some releases may require an update before you can continue using certain functionality, particularly where changes are necessary to maintain compatibility with YouTube, Windows, or other required technologies.
+Updates are delivered through the Microsoft Store. Some releases may require an update before you can carry on using certain functionality, particularly where the change is needed to stay compatible with YouTube, with Windows, or with another required technology.
 
-Because the application displays web content, it uses the evergreen Microsoft Edge WebView2 Runtime provided and maintained through Microsoft's ecosystem rather than permanently relying on a fixed browser-engine version.
+Because the app displays web content, it uses the evergreen Microsoft Edge WebView2 Runtime that Microsoft provides and maintains, rather than pinning a fixed browser-engine version.
 
 ## 12. Availability
 
-The application is provided as available. Idea Forge does not guarantee that the app will always be available, uninterrupted, error-free, compatible with every device or configuration, or able to maintain every feature indefinitely.
+The app is provided as available. Idea Forge does not guarantee that it will always be available, uninterrupted, error-free, compatible with every device or configuration, or able to keep every feature indefinitely.
 
-Features that depend on third-party services may stop functioning if those services change, restrict access, or become unavailable.
+Features that depend on third-party services may stop working if those services change, restrict access, or become unavailable.
 
 ## 13. No warranty
 
-> To the maximum extent permitted by applicable law, the application is provided without warranties of any kind, whether express, implied, or statutory. This includes, where permitted by law, implied warranties relating to merchantability, fitness for a particular purpose, and non-infringement. Some jurisdictions do not permit certain warranty exclusions; where such laws apply, these exclusions apply only to the maximum extent legally permitted.
+> To the maximum extent permitted by applicable law, the app is provided without warranties of any kind, whether express, implied, or statutory. This includes, where permitted by law, implied warranties of merchantability, fitness for a particular purpose, and non-infringement. Some jurisdictions do not permit certain warranty exclusions; where those laws apply, these exclusions apply only to the maximum extent legally permitted.
 
 ## 14. Limitation of liability
 
-> To the maximum extent permitted by applicable law, Idea Forge will not be liable for indirect, incidental, special, consequential, or punitive damages. This includes damages relating to lost data, lost profits, lost business opportunities, lost time, or your inability to use the application.
+> To the maximum extent permitted by applicable law, Idea Forge is not liable for indirect, incidental, special, consequential, or punitive damages. This includes damages relating to lost data, lost profits, lost business opportunities, lost time, or your inability to use the app.
 >
-> Where liability cannot legally be excluded, Idea Forge's liability will be limited to the amount you actually paid for the application and its add-ons during the twelve months immediately preceding the event giving rise to the claim.
+> Where liability cannot legally be excluded, Idea Forge's total aggregate liability is limited to the amount you actually paid for the app and its add-ons in the twelve months immediately preceding the event giving rise to the claim.
 >
-> Nothing in these Terms of Service excludes or limits liability for fraud or any other liability that cannot legally be excluded or limited.
+> Nothing in these terms excludes or limits liability for fraud, or any other liability that cannot legally be excluded or limited, and nothing here affects statutory consumer rights in your country that cannot be waived by agreement.
 
 ## 15. Indemnity
 
-You agree to indemnify Idea Forge against claims arising from your misuse of the application, including claims relating to material you downloaded or used through the app where such misuse is attributable to you.
+You agree to indemnify Idea Forge against claims arising from your misuse of the app, including claims about material you downloaded or used through it, where that misuse is attributable to you.
 
-## 16. Termination
+## 16. Suspension and termination
 
-You may stop using the application at any time by uninstalling it. Idea Forge may terminate your licence to use the application if you materially breach these Terms of Service. Upon termination, you must stop using the application and remove it from your devices where required. Sections relating to user responsibility, warranties, limitation of liability, and indemnity survive termination.
+You may stop using the app at any time by uninstalling it. We may suspend or terminate your licence if you materially breach these terms, in particular the restrictions in Section 4. If your licence ends you must stop using the app and uninstall it. Sections 3, 7, and 13 to 19 survive termination.
 
 ## 17. Governing law
 
-These Terms of Service are governed by the laws of the Islamic Republic of Pakistan, without regard to conflict-of-law rules. If you are a consumer, this does not remove any mandatory consumer protections available under the laws of the country or jurisdiction in which you live.
+These terms are governed by the laws of the Islamic Republic of Pakistan, and its courts have non-exclusive jurisdiction over any dispute.
+
+If you are a consumer, this does not deprive you of the protection of the mandatory consumer-protection laws of your country of residence, and you may bring proceedings in your local courts wherever the law gives you that right.
 
 ## 18. Changes to these terms
 
-Changes to these Terms of Service will be reflected by updating the Effective date or Last updated date at the top of this page. Material changes may also be noted in Microsoft Store release notes where appropriate. By continuing to use the application after updated terms take effect, you accept the updated Terms of Service.
+We may update these terms as the app changes. The effective date at the top always reflects the current version, and material changes will be noted in the release notes on the Microsoft Store listing. Continuing to use the app after a change takes effect means you accept the revised terms. If you do not accept them, stop using the app and uninstall it.
 
-## 19. Contact
+## 19. General
+
+- **Entire agreement:** These terms, together with the Privacy Policy and Microsoft's applicable terms, form the entire agreement between you and us about the app.
+- **Severability:** If any provision is held unenforceable, the rest remain in force.
+- **No waiver:** A failure to enforce a provision is not a waiver of it.
+- **Assignment:** You may not assign these terms. We may assign them in connection with a transfer of the app.
+
+## 20. Contact
+
+We do not publish a support email address. Everything reaches us through one channel:
 
 - **Support & Feedback:** [Support & Feedback](/support)
-- **Privacy Policy:** [https://sites.google.com/view/ideaforge-web/privacy-policy](https://sites.google.com/view/ideaforge-web/privacy-policy)
-- **Publisher:** Idea Forge (Independent developer based in Pakistan)
-- **Microsoft Store Listing:** [AdBlocker for YT Videos on Microsoft Store](https://apps.microsoft.com/detail/9NCW9S0T3K29)
 
-> AdBlocker for YT Videos is not affiliated with, endorsed by, or sponsored by YouTube, Google LLC, or Microsoft Corporation. YouTube is a trademark of Google LLC.
+   Use the Support & Feedback form on that page for questions about these terms, billing help, bug reports, and anything else. It is the same form the app links to from *Settings → Support & feedback*.
+- **Privacy Policy:** [Privacy Policy](/products/yt-app-for-youtube/privacy-policy)
+- **Publisher:** Idea Forge
+- **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PG1Z4WJM4WG](https://apps.microsoft.com/detail/9PG1Z4WJM4WG)
+
+> YT Videos is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.

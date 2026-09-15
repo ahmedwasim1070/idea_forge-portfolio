@@ -17,7 +17,7 @@ Applies to the GMeet Desktop application for Windows, distributed through the Mi
 > - The app can optionally connect to your Google Calendar, only if you deliberately sign in and grant permission.
 > - The app downloads virtual background images from our server when you ask it to.
 
-GMeet is an independent product. It is not affiliated with, endorsed by, or sponsored by Google LLC. "Google", "Google Meet", and "Google Calendar" are trademarks of Google LLC. "GMeet" is used only as a short descriptor of the service the app helps you reach.
+GMeet is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.
 
 ## 1. Who we are
 
@@ -189,8 +189,8 @@ We may update this policy as the app changes. The effective date at the top alwa
 ## 15. Contact
 
 - **Support & Feedback:** [Support & Feedback](/support)
-- **Terms of Service:** [https://sites.google.com/view/ideaforge-web/g-meet-terms-of-service](https://sites.google.com/view/ideaforge-web/g-meet-terms-of-service)
+- **Terms of Service:** [Terms of Service](/products/g-meet-desktop-launcher/terms-of-service)
 - **Publisher:** Idea Forge
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PHKS01R0C0B](https://apps.microsoft.com/detail/9PHKS01R0C0B)
 
-> Idea Forge is an independent developer based in Pakistan. GMeet is not affiliated with, endorsed by, or sponsored by Google LLC or Microsoft Corporation.
+> GMeet is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.

@@ -14,7 +14,7 @@ const catalogue: ProductRecord[] = [
   {
     packageName: "ideaforge.G-MeetDesktopLauncher",
     name: "GMeet - Video Calls and Meetings",
-    tagline: "App for Google Meet",
+    tagline: "App Client for Google Meet",
     summary:
       "A desktop utility that makes Google Meet easier to reach from Windows, without opening a browser first.",
     description: [
@@ -28,7 +28,7 @@ const catalogue: ProductRecord[] = [
       "Downloadable virtual backgrounds",
       "Google Meet in a dedicated window",
     ],
-    logo: "/products/g-meet.png",
+    logo: "/products/G-MeetDesktopLauncher.png",
     platform: "microsoft-store",
     released: "August 2026",
     liveUrl: "https://apps.microsoft.com/detail/9PHKS01R0C0B",
@@ -49,8 +49,8 @@ const catalogue: ProductRecord[] = [
   },
   {
     packageName: "ideaforge.Yt-AppForYoutube",
-    name: "AdBlocker for YT Videos",
-    tagline: "Desktop client for YouTube",
+    name: "YT Videos - AdBlocker, Downloader and Music",
+    tagline: "One Client for all YouTube Platform",
     summary:
       "A dedicated Windows window for YouTube, YouTube Music and YouTube Kids, with its own playback controls.",
     description: [
@@ -65,7 +65,7 @@ const catalogue: ProductRecord[] = [
       "Video downloading",
       "Desktop-wide shortcut keys",
     ],
-    logo: "/products/adblocker-for-yt-videos.png",
+    logo: "/products/Yt-AppForYoutube.png",
     platform: "microsoft-store",
     released: "September 2026",
     liveUrl: "https://apps.microsoft.com/detail/9PG1Z4WJM4WG",
@@ -100,7 +100,7 @@ const catalogue: ProductRecord[] = [
       "Opens from a notification-area panel",
       "Keyboard shortcut access",
     ],
-    logo: "/products/spotlaunch.png",
+    logo: "/products/SpotLaunch.png",
     platform: "microsoft-store",
     released: "August 2026",
     liveUrl: "https://apps.microsoft.com/detail/9NGC63JNJ6TG",
@@ -159,5 +159,7 @@ const catalogue: ProductRecord[] = [
 // project without a package keeps the segment it declares.
 export const products: Product[] = catalogue.map((product) => ({
   ...product,
-  slug: product.packageName ? getPackageSlug(product.packageName) : product.slug!,
+  slug: product.packageName
+    ? getPackageSlug(product.packageName)
+    : product.slug!,
 }));

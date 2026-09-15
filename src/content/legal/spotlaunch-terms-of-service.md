@@ -15,7 +15,7 @@ It is a way of reaching things you already have. It does not install software, i
 
 ## 2. Your licence to use the app
 
-We grant you a personal, non-exclusive, non-transferable, revocable licence to install and use SpotLaunch on devices you control, for personal or internal business use, subject to these terms and to the [Microsoft Store Terms of Sale](https://www.microsoft.com/en-us/storedocs/terms-of-sale).
+We grant you a personal, non-exclusive, non-transferable, revocable licence to install and use SpotLaunch on devices you control, for personal or internal business use, subject to these terms and to the [Microsoft Store Terms of Sale](https://www.microsoft.com/en-us/storedocs/terms-of-sale). Purchasing a subscription or licence — whether lifetime, annual, or monthly — grants only a personal licence to use the application and does not give any authority or right to resell the software or make copies of it.
 
 You may not:
 
@@ -40,7 +40,7 @@ Some features are Premium: opening at login, staying in the notification tray, t
 
 ## 4. Your content
 
-Your favourites, bookmarks, history, and preferences are yours. They are stored on your own PC and we neither receive nor hold copies — see the [Privacy Policy](https://sites.google.com/view/ideaforge-web/spotlaunch-privacy-policy).
+Your favourites, bookmarks, history, and preferences are yours. They are stored on your own PC and we neither receive nor hold copies — see the [Privacy Policy](/products/spot-launch/privacy-policy).
 
 Because they exist only on your device, you are responsible for your own backups. Clearing local data in Settings, uninstalling the app, resetting Windows, or losing the device will erase them, and there is nothing for us to restore.
 
@@ -81,7 +81,7 @@ Where the Microsoft Store Terms of Sale govern a purchase, those terms prevail o
 ## 11. Contact
 
 - **Support & Feedback:** [Support & Feedback](/support)
-- **Privacy Policy:** [https://sites.google.com/view/ideaforge-web/spotlaunch-privacy-policy](https://sites.google.com/view/ideaforge-web/spotlaunch-privacy-policy)
+- **Privacy Policy:** [Privacy Policy](/products/spot-launch/privacy-policy)
 - **Publisher:** Idea Forge
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9NGC63JNJ6TG](https://apps.microsoft.com/detail/9NGC63JNJ6TG)
 

@@ -136,7 +136,7 @@ We may update this policy as the app changes. The effective date at the top alwa
 ## 10. Contact
 
 - **Support & Feedback:** [Support & Feedback](/support)
-- **Terms of Service:** [https://sites.google.com/view/ideaforge-web/terms-of-service](https://sites.google.com/view/ideaforge-web/terms-of-service)
+- **Terms of Service:** [Terms of Service](/products/spot-launch/terms-of-service)
 - **Publisher:** Idea Forge
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9NGC63JNJ6TG](https://apps.microsoft.com/detail/9NGC63JNJ6TG)
 

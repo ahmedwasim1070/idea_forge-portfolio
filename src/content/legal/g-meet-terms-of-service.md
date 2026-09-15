@@ -21,15 +21,13 @@ The app is not Google Meet, and it is not a video-calling service. It does not h
 
 ## 3. Not affiliated with Google or Microsoft
 
-GMeet is not affiliated with, endorsed by, sponsored by, or otherwise connected to Google LLC or Microsoft Corporation.
-
-"Google", "Google Meet", and "Google Calendar" are trademarks of Google LLC; "Microsoft", "Windows", and "Microsoft Store" are trademarks of Microsoft Corporation.
+GMeet is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.
 
 "GMeet" is used solely as a short descriptor of the service the app helps you reach.
 
 ## 4. License
 
-Subject to these terms, we grant you a personal, non-exclusive, non-transferable, revocable license to install and use the app on devices associated with your Microsoft account, as permitted by the Microsoft Store.
+Subject to these terms, we grant you a personal, non-exclusive, non-transferable, revocable license to install and use the app on devices associated with your Microsoft account, as permitted by the Microsoft Store. Purchasing a subscription or license — whether lifetime, annual, or monthly — grants only a personal license to use the application and does not give any authority or right to resell the software or make copies of it.
 
 You may not:
 
@@ -78,7 +76,7 @@ Your meetings, preferences, and any Google tokens stay on your own device. We op
 
 The detail — camera and microphone permissions, the clipboard check, the optional Google Calendar connection — is in our Privacy Policy:
 
- [https://sites.google.com/view/ideaforge-web/privacy-policy](https://sites.google.com/view/ideaforge-web/privacy-policy)
+ [Privacy Policy](/products/g-meet-desktop-launcher/privacy-policy)
 
 You are responsible for what you enter into the app, including meeting names and links, and for keeping your own backups if that data matters to you. Uninstalling the app removes its local data.
 
@@ -138,8 +136,8 @@ We do not publish a support email address. Everything reaches us through one cha
 - **Support & Feedback:** [Support & Feedback](/support)
 
    Use the Support & Feedback form on that page for questions about these terms, billing help, bug reports, and anything else. It is the same form the app links to from Settings → Support & Feedback.
-- **Privacy Policy:** [https://sites.google.com/view/ideaforge-web/g-meet-privacy-policy](https://sites.google.com/view/ideaforge-web/g-meet-privacy-policy)
+- **Privacy Policy:** [Privacy Policy](/products/g-meet-desktop-launcher/privacy-policy)
 - **Publisher:** Idea Forge
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PHKS01R0C0B](https://apps.microsoft.com/detail/9PHKS01R0C0B)
 
-> GMeet is an independent product. It is not affiliated with, endorsed by, or sponsored by Google LLC or Microsoft Corporation.
+> GMeet is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.

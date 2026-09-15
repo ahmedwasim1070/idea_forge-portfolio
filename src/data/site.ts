@@ -6,10 +6,10 @@ import type { NavigationItem } from "@/types";
 // place the absolute URL is written.
 export const SITE_URL = "https://ideaforge-web.netlify.app";
 
-// Publisher identity. Idea Forge is the brand; Ahmad is named through it.
+// Publisher identity.
 export const publisher = {
   name: "Idea Forge",
-  fullName: "Idea Forge Publisher",
+  fullName: "Idea Forge Software",
   tagline: "Forging Idea's Into App's",
   description:
     "Idea Forge builds precise, well-engineered software for Windows and the web.",

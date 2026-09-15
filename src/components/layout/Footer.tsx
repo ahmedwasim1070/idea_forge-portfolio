@@ -34,9 +34,6 @@ function Footer() {
             <p className="mt-4 text-sm leading-relaxed text-white/60">
               {publisher.description}
             </p>
-            <p className="mt-4 text-sm leading-relaxed text-white/60">
-              Solo-engineered and maintained by {profile.name}.
-            </p>
           </div>
 
           {/*  */}

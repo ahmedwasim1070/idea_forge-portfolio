@@ -10,7 +10,7 @@ import { getProductsByPlatform } from "@/utils";
 function Products() {
   useDocumentMeta(
     "Products",
-    "Every application and project published by Idea Forge, with privacy policies and terms."
+    "Every application and project published by Idea Forge, with privacy policies and terms.",
   );
 
   // Groups come from the catalogue, so a new channel needs no change here.
@@ -26,8 +26,8 @@ function Products() {
               Products
             </h1>
             <p className="mt-4 text-lg leading-relaxed text-white/70">
-              Applications published to the Microsoft Store, and projects published on
-              the web. Each entry links to its own privacy policy and terms.
+              Software across native platforms and the modern web—each designed,
+              built, shipped, and supported end-to-end.
             </p>
           </div>
         </Container>

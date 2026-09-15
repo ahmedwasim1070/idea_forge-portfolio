@@ -13,7 +13,7 @@ import { getProductsByPlatform } from "@/utils";
 function About() {
   useDocumentMeta(
     "About",
-    `${publisher.fullName} is an independent software publisher managed and operated by ${profile.name}.`
+    `${publisher.fullName} is an independent software publisher managed by ${profile.name} right now.`,
   );
 
   const groups = getProductsByPlatform();
@@ -48,8 +48,8 @@ function About() {
             <p className="mt-3 text-base text-accent">{profile.role}</p>
             <p className="mt-1 text-base text-muted">{profile.location}</p>
             <p className="mt-6 max-w-md text-base leading-relaxed text-body">
-              Idea Forge is the publisher name the work ships under. The profiles below
-              are where the engineering itself lives.
+              Idea Forge is the publisher name the work ships under. The profile
+              below is where the engineering itself lives.
             </p>
           </div>
 
@@ -64,8 +64,8 @@ function About() {
             Published work
           </h2>
           <p className="mt-3 text-base leading-relaxed text-body">
-            Applications on the Microsoft Store and projects on the web, each designed,
-            built, shipped, and supported end to end.
+            Software across native platforms and the modern web—each designed,
+            built, shipped, and supported end-to-end.
           </p>
         </div>
 

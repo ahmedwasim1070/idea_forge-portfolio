@@ -6,7 +6,11 @@ import { profileLinks } from "@/data";
 //
 function ProfileLinks() {
   return (
-    <ul className="grid gap-4 sm:grid-cols-2">
+    <ul
+      className={`grid gap-4 ${
+        profileLinks.length > 1 ? "sm:grid-cols-2" : "max-w-md"
+      }`}
+    >
       {profileLinks.map((link) => (
         <li key={link.href}>
           <a

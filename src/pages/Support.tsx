@@ -9,7 +9,7 @@ import { supportForm } from "@/data";
 function Support() {
   useDocumentMeta(
     "Support",
-    "Support and feedback for every application published by Idea Forge, through one form."
+    "Support and feedback for every application published by Idea Forge, through one form.",
   );
 
   return (
@@ -22,8 +22,8 @@ function Support() {
               Support &amp; Feedback
             </h1>
             <p className="mt-4 text-lg leading-relaxed text-white/70">
-              Every application points at this one form, so nothing gets lost. Use it
-              for bug reports, privacy questions, data requests, and anything else.
+              Have a bug to report, feedback to share, or a question about
+              privacy? Reach out directly using the form below.
             </p>
             <p className="mt-4 text-base leading-relaxed text-white/55">
               If the form does not load,{" "}
