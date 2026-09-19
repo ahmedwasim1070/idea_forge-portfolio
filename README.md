@@ -46,7 +46,7 @@ The website serves as the central home for Idea Forge's Microsoft Store applicat
 
 This repository is public for **portfolio and demonstration purposes only**.
 
-- All intellectual property, branding, and assets belong to **Noor Home Care**.
+- All intellectual property, branding, and assets belong to **IdeaForge Software**.
 - The source code is visible to showcase development skills and architecture.
 
 ---
