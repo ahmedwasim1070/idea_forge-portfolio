@@ -49,12 +49,12 @@ const catalogue: ProductRecord[] = [
   },
   {
     packageName: "ideaforge.Yt-AppForYoutube",
-    name: "YT Videos - AdBlocker, Downloader and Music",
+    name: "YT Video - AdBlocker & Downloader",
     tagline: "One Client for all YouTube Platform",
     summary:
       "A dedicated Windows window for YouTube, YouTube Music and YouTube Kids, with its own playback controls.",
     description: [
-      "AdBlocker for YT Videos is a Windows desktop client for YouTube. It provides access to YouTube, YouTube Music, and YouTube Kids in a dedicated application window with its own features and controls, including ad blocking, a pop-out player, background play, and video downloading.",
+      "AdBlocker for YT Video is a Windows desktop client for YouTube. It provides access to YouTube, YouTube Music, and YouTube Kids in a dedicated application window with its own features and controls, including ad blocking, a pop-out player, background play, and video downloading.",
       "The app is a viewer. It does not host, mirror, or re-serve video content. Content is delivered from YouTube's own services directly to your computer, in the same general manner as when accessing YouTube through a web browser.",
     ],
     features: [

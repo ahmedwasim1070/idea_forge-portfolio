@@ -1,21 +1,22 @@
 ---
-title: YT Videos - AdBlocker Downloader and Music
+title: YT Video - AdBlocker & Downloader
 document: Terms of Service
 subtitle: A product of Idea Forge
 effectiveDate: 14 September 2026
 lastUpdated: 14 September 2026
 ---
-Applies to the YT Videos application for Windows, distributed through the Microsoft Store (Product ID `9PG1Z4WJM4WG`). The application has no supporting online service.
+
+Applies to the YT Video application for Windows, distributed through the Microsoft Store (Product ID `9PG1Z4WJM4WG`). The application has no supporting online service.
 
 ## 1. Agreement
 
-By installing or using YT Videos ("the app"), you agree to these terms. They are in addition to the Microsoft Store Terms of Sale and the Microsoft Services Agreement, which govern your purchase and your use of the Microsoft Store itself.
+By installing or using YT Video ("the app"), you agree to these terms. They are in addition to the Microsoft Store Terms of Sale and the Microsoft Services Agreement, which govern your purchase and your use of the Microsoft Store itself.
 
 If you do not agree to these terms, do not install or use the app.
 
 ## 2. What the app is
 
-YT Videos is a Windows desktop client for YouTube. It puts YouTube, YouTube Music, and YouTube Kids in a dedicated application window with its own chrome and controls, and adds the things a browser tab cannot:
+YT Video is a Windows desktop client for YouTube. It puts YouTube, YouTube Music, and YouTube Kids in a dedicated application window with its own chrome and controls, and adds the things a browser tab cannot:
 
 - Ad blocking
 - A pop-out player
@@ -26,7 +27,7 @@ The app is a viewer. It does not host, mirror, re-serve, or index video content.
 
 ## 3. Not affiliated
 
-Idea Forge is an independent developer. YT Videos is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
+Idea Forge is an independent developer. YT Video is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
 
 ## 4. Licence
 
@@ -39,7 +40,7 @@ You may not:
 - Circumvent licensing mechanisms, or attempt to obtain paid features without paying for them;
 - Use the app to break the law or to infringe the rights of another person or organisation.
 
-The app bundles open-source components. Those are licensed under their own licences, which are reproduced inside the app under *Settings → License*, and those licences apply independently of this section.
+The app bundles open-source components. Those are licensed under their own licences, which are reproduced inside the app under _Settings → License_, and those licences apply independently of this section.
 
 ## 5. Third-party services and content
 
@@ -149,9 +150,10 @@ We do not publish a support email address. Everything reaches us through one cha
 
 - **Support & Feedback:** [Support & Feedback](/support)
 
-   Use the Support & Feedback form on that page for questions about these terms, billing help, bug reports, and anything else. It is the same form the app links to from *Settings → Support & feedback*.
+  Use the Support & Feedback form on that page for questions about these terms, billing help, bug reports, and anything else. It is the same form the app links to from _Settings → Support & feedback_.
+
 - **Privacy Policy:** [Privacy Policy](/products/yt-app-for-youtube/privacy-policy)
 - **Publisher:** Idea Forge
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PG1Z4WJM4WG](https://apps.microsoft.com/detail/9PG1Z4WJM4WG)
 
-> YT Videos is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
+> YT Video is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.

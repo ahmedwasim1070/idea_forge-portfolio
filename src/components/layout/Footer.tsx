@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import Wordmark from "./Wordmark";
 import { Container } from "@/components/ui";
 // Data
-import { primaryNavigation, profile, profileLinks, publisher } from "@/data";
+import { primaryNavigation, profileLinks, publisher } from "@/data";
 
 //
 function Footer() {

@@ -1,15 +1,16 @@
 ---
-title: YT Videos - AdBlocker Downloader and Music
+title: YT Video - AdBlocker & Downloader
 document: Privacy Policy
 subtitle: A product of Idea Forge
 effectiveDate: 14 September 2026
 lastUpdated: 14 September 2026
 ---
-Applies to the YT Videos application for Windows, distributed through the Microsoft Store (Product ID `9PG1Z4WJM4WG`). The application has no supporting online service.
+
+Applies to the YT Video application for Windows, distributed through the Microsoft Store (Product ID `9PG1Z4WJM4WG`). The application has no supporting online service.
 
 > ### The Short Version
 >
-> YT Videos has no user accounts, no analytics, and no database. There is no server operated by Idea Forge anywhere in the picture. The application has no backend at all.
+> YT Video has no user accounts, no analytics, and no database. There is no server operated by Idea Forge anywhere in the picture. The application has no backend at all.
 >
 > Everything the app remembers — your theme, your download quality, your saved videos, and your YouTube sign-in — stays on your own computer. None of it is sent to Idea Forge, because there is nowhere for it to be sent.
 >
@@ -19,19 +20,19 @@ Applies to the YT Videos application for Windows, distributed through the Micros
 > - The ad blocker's filter lists are retrieved by uBlock Origin Lite from their own publishers.
 > - The Microsoft Store handles purchases, licence checks, and application update checks.
 
-YT Videos is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
+YT Video is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
 
 ## 1. Who we are
 
-YT Videos is published by Idea Forge ("we", "us", "our").
+YT Video is published by Idea Forge ("we", "us", "our").
 
 We do not publish a support email address. Everything reaches us through one channel, so nothing gets lost:
 
 **Support & Feedback:**
 
- [Support & Feedback](/support)
+[Support & Feedback](/support)
 
-Use the Support & Feedback form on that page for privacy questions, data requests, bug reports, and anything else. It is the same form the app links to from *Settings → Support & feedback*, and it is the fastest way to reach a person.
+Use the Support & Feedback form on that page for privacy questions, data requests, bug reports, and anything else. It is the same form the app links to from _Settings → Support & feedback_, and it is the fastest way to reach a person.
 
 ## 2. What is stored on your device
 
@@ -81,7 +82,7 @@ Inside that folder, the browser engine stores:
 
 Idea Forge cannot read this data, does not inspect it, and does not transmit it. It is created by and for the WebView2 engine and Google's services, exactly as if you were using Microsoft Edge directly.
 
-Clearing the app's cache in *Settings → Privacy → Clear browsing data*, or uninstalling the app, removes this folder.
+Clearing the app's cache in _Settings → Privacy → Clear browsing data_, or uninstalling the app, removes this folder.
 
 ## 4. What leaves your device
 
@@ -195,7 +196,7 @@ The application bundles open-source software, including:
 - `yt-dlp`
 - `FFmpeg`
 
-Licence notices, the applicable licence texts, and the version of each bundled component are available inside the application under *Settings → License*.
+Licence notices, the applicable licence texts, and the version of each bundled component are available inside the application under _Settings → License_.
 
 ## 14. Changes to this policy
 
@@ -208,4 +209,4 @@ We may update this policy as the app changes. The effective date at the top alwa
 - **Publisher:** Idea Forge
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PG1Z4WJM4WG](https://apps.microsoft.com/detail/9PG1Z4WJM4WG)
 
-> YT Videos is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
+> YT Video is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
