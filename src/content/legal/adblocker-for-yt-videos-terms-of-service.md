@@ -1,9 +1,9 @@
 ---
 title: YT Video - AdBlocker & Downloader
 document: Terms of Service
-subtitle: A product of Idea Forge
+subtitle: A product of IdeaForge Software
 effectiveDate: 14 September 2026
-lastUpdated: 14 September 2026
+lastUpdated: 23 September 2026
 ---
 
 Applies to the YT Video application for Windows, distributed through the Microsoft Store (Product ID `9PG1Z4WJM4WG`). The application has no supporting online service.
@@ -27,7 +27,7 @@ The app is a viewer. It does not host, mirror, re-serve, or index video content.
 
 ## 3. Not affiliated
 
-Idea Forge is an independent developer. YT Video is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
+IdeaForge Software is an independent developer. YT Video is an independent third-party desktop utility developed by IdeaForge Software. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
 
 ## 4. Licence
 
@@ -46,7 +46,7 @@ The app bundles open-source components. Those are licensed under their own licen
 
 YouTube, YouTube Music, YouTube Kids, and the Microsoft Store are operated by third parties under their own terms and policies. Your use of those services is between you and the provider of each.
 
-Those services may change, restrict access, be interrupted, or become unavailable without notice to Idea Forge. Where that affects how the app works, it is not a breach of these terms by Idea Forge.
+Those services may change, restrict access, be interrupted, or become unavailable without notice to IdeaForge Software. Where that affects how the app works, it is not a breach of these terms by IdeaForge Software.
 
 You remain responsible for complying with YouTube's own Terms of Service when you use YouTube through this app.
 
@@ -66,7 +66,7 @@ The app can save supported video content to your computer. It is a general-purpo
 
 You are solely responsible for making sure you have the rights or permissions you need for anything you save. Do not use the app to infringe copyright or other intellectual property rights.
 
-Idea Forge does not host, index, or supply the videos you choose to watch or download, and accepts no responsibility for what you do with downloaded material.
+IdeaForge Software does not host, index, or supply the videos you choose to watch or download, and accepts no responsibility for what you do with downloaded material.
 
 ## 8. Ad blocking
 
@@ -76,7 +76,7 @@ Ad blocking may change or stop working at any time. Filter lists and the sites t
 
 ## 9. Your data
 
-Your preferences, your YouTube sign-in, and your downloaded files stay on your own device. There is no Idea Forge backend storing any of it, and none of it is transmitted to Idea Forge.
+Your preferences, your YouTube sign-in, and your downloaded files stay on your own device. There is no IdeaForge Software backend storing any of it, and none of it is transmitted to IdeaForge Software.
 
 For the detail, read the [Privacy Policy](/products/yt-app-for-youtube/privacy-policy).
 
@@ -103,7 +103,7 @@ Because the app displays web content, it uses the evergreen Microsoft Edge WebVi
 
 ## 12. Availability
 
-The app is provided as available. Idea Forge does not guarantee that it will always be available, uninterrupted, error-free, compatible with every device or configuration, or able to keep every feature indefinitely.
+The app is provided as available. IdeaForge Software does not guarantee that it will always be available, uninterrupted, error-free, compatible with every device or configuration, or able to keep every feature indefinitely.
 
 Features that depend on third-party services may stop working if those services change, restrict access, or become unavailable.
 
@@ -113,15 +113,15 @@ Features that depend on third-party services may stop working if those services 
 
 ## 14. Limitation of liability
 
-> To the maximum extent permitted by applicable law, Idea Forge is not liable for indirect, incidental, special, consequential, or punitive damages. This includes damages relating to lost data, lost profits, lost business opportunities, lost time, or your inability to use the app.
+> To the maximum extent permitted by applicable law, IdeaForge Software is not liable for indirect, incidental, special, consequential, or punitive damages. This includes damages relating to lost data, lost profits, lost business opportunities, lost time, or your inability to use the app.
 >
-> Where liability cannot legally be excluded, Idea Forge's total aggregate liability is limited to the amount you actually paid for the app and its add-ons in the twelve months immediately preceding the event giving rise to the claim.
+> Where liability cannot legally be excluded, IdeaForge Software's total aggregate liability is limited to the amount you actually paid for the app and its add-ons in the twelve months immediately preceding the event giving rise to the claim.
 >
 > Nothing in these terms excludes or limits liability for fraud, or any other liability that cannot legally be excluded or limited, and nothing here affects statutory consumer rights in your country that cannot be waived by agreement.
 
 ## 15. Indemnity
 
-You agree to indemnify Idea Forge against claims arising from your misuse of the app, including claims about material you downloaded or used through it, where that misuse is attributable to you.
+You agree to indemnify IdeaForge Software against claims arising from your misuse of the app, including claims about material you downloaded or used through it, where that misuse is attributable to you.
 
 ## 16. Suspension and termination
 
@@ -153,7 +153,7 @@ We do not publish a support email address. Everything reaches us through one cha
   Use the Support & Feedback form on that page for questions about these terms, billing help, bug reports, and anything else. It is the same form the app links to from _Settings → Support & feedback_.
 
 - **Privacy Policy:** [Privacy Policy](/products/yt-app-for-youtube/privacy-policy)
-- **Publisher:** Idea Forge
+- **Publisher:** IdeaForge Software
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PG1Z4WJM4WG](https://apps.microsoft.com/detail/9PG1Z4WJM4WG)
 
-> YT Video is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
+> YT Video is an independent third-party desktop utility developed by IdeaForge Software. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.

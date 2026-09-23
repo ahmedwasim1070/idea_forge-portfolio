@@ -3,6 +3,8 @@ import { Container, Section } from "@/components/ui";
 import { ProductGroup } from "@/components/product";
 // Hooks
 import { useDocumentMeta } from "@/hooks";
+// Data
+import { publisher } from "@/data";
 // Utils
 import { getProductsByPlatform } from "@/utils";
 
@@ -10,7 +12,7 @@ import { getProductsByPlatform } from "@/utils";
 function Products() {
   useDocumentMeta(
     "Products",
-    "Every application and project published by Idea Forge, with privacy policies and terms.",
+    `Every application and project published by ${publisher.name}, with privacy policies and terms.`,
   );
 
   // Groups come from the catalogue, so a new channel needs no change here.

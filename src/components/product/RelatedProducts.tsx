@@ -2,6 +2,8 @@
 import { Link } from "react-router-dom";
 // Components
 import ProductLogo from "./ProductLogo";
+// Data
+import { publisher } from "@/data";
 // Utils
 import { getPlatformLabel, getRelatedProducts } from "@/utils";
 
@@ -20,7 +22,7 @@ function RelatedProducts({ slug }: RelatedProductsProps) {
   return (
     <div>
       <h2 className="font-display text-2xl font-semibold tracking-tight text-ink">
-        More from Idea Forge
+        More from {publisher.name}
       </h2>
 
       <ul className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">

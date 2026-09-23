@@ -25,7 +25,7 @@ function About() {
         <Container>
           <div className="max-w-2xl py-16 md:py-20">
             <h1 className="font-display text-3xl font-bold tracking-tight text-white md:text-4xl">
-              About Idea Forge
+              About {publisher.name}
             </h1>
             <div className="mt-8 space-y-4">
               {profile.bio.map((paragraph, idx) => (
@@ -48,8 +48,8 @@ function About() {
             <p className="mt-3 text-base text-accent">{profile.role}</p>
             <p className="mt-1 text-base text-muted">{profile.location}</p>
             <p className="mt-6 max-w-md text-base leading-relaxed text-body">
-              Idea Forge is the publisher name the work ships under. The profile
-              below is where the engineering itself lives.
+              {publisher.name} is the publisher name the work ships under. The
+              profile below is where the engineering itself lives.
             </p>
           </div>
 

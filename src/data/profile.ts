@@ -7,8 +7,8 @@ export const profile = {
   role: "Software Engineer — Full Stack, Systems",
   location: "Pakistan",
   bio: [
-    "Idea Forge is run by an independent developer focused on craft over bloat.",
-    "Purpose-built utilities designed with an open-source ethos: lean architecture, complete transparency, and zero bloat.",
+    "IdeaForge Software is run by an independent developer focused on craft over bloat.",
+    "Purpose-built solutions designed with an open-source ethos: lean architecture, complete transparency, and zero bloat.",
   ],
 };
 

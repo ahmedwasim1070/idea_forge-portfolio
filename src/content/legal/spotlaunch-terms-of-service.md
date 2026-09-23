@@ -1,9 +1,9 @@
 ---
 title: SpotLaunch — Social Media Browser
 document: Terms of Service
-subtitle: A product of Idea Forge
+subtitle: A product of IdeaForge Software
 effectiveDate: 19 August 2026
-lastUpdated: 19 August 2026
+lastUpdated: 23 September 2026
 ---
 Applies to the SpotLaunch desktop application for Windows, distributed through the Microsoft Store (Product ID `9NGC63JNJ6TG`).
 
@@ -62,7 +62,7 @@ SpotLaunch opens applications, websites, and Windows components on your instruct
 
 ## 8. Liability
 
-> To the fullest extent permitted by law, Idea Forge is not liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of data, profits, revenue, or opportunity, arising out of or relating to your use of SpotLaunch.
+> To the fullest extent permitted by law, IdeaForge Software is not liable for any indirect, incidental, special, consequential, or punitive damages, or for any loss of data, profits, revenue, or opportunity, arising out of or relating to your use of SpotLaunch.
 >
 > Where liability cannot be excluded, our total liability for all claims relating to the app is limited to the amount you actually paid for it in the twelve months before the claim arose, or US$20, whichever is greater.
 >
@@ -74,7 +74,7 @@ You may stop using SpotLaunch at any time by uninstalling it. We may suspend or 
 
 ## 10. General
 
-These terms represent the entire agreement between you and Idea Forge concerning SpotLaunch and replace any earlier version. If a provision is found unenforceable, the remaining provisions stay in force. Our failure to enforce a provision on one occasion does not waive our right to enforce it later.
+These terms represent the entire agreement between you and IdeaForge Software concerning SpotLaunch and replace any earlier version. If a provision is found unenforceable, the remaining provisions stay in force. Our failure to enforce a provision on one occasion does not waive our right to enforce it later.
 
 Where the Microsoft Store Terms of Sale govern a purchase, those terms prevail over these for that transaction.
 
@@ -82,7 +82,7 @@ Where the Microsoft Store Terms of Sale govern a purchase, those terms prevail o
 
 - **Support & Feedback:** [Support & Feedback](/support)
 - **Privacy Policy:** [Privacy Policy](/products/spot-launch/privacy-policy)
-- **Publisher:** Idea Forge
+- **Publisher:** IdeaForge Software
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9NGC63JNJ6TG](https://apps.microsoft.com/detail/9NGC63JNJ6TG)
 
-> Idea Forge is an independent developer based in Pakistan. SpotLaunch is not affiliated with, endorsed by, or sponsored by Microsoft Corporation.
+> IdeaForge Software is an independent developer based in Pakistan. SpotLaunch is not affiliated with, endorsed by, or sponsored by Microsoft Corporation.

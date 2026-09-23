@@ -2,7 +2,9 @@
 import { useEffect } from "react";
 import { useLocation } from "react-router-dom";
 // Data
-import { SITE_URL, publisher } from "@/data";
+import { publisher } from "@/data";
+// Utils
+import { getSiteUrl } from "@/utils";
 
 // Creates the tag on first use, then keeps reusing it.
 const upsert = (
@@ -44,7 +46,7 @@ export const useDocumentMeta = (title: string, description?: string) => {
     window.document.title = fullTitle;
 
     // Trailing slashes are dropped so one page has exactly one canonical form.
-    const canonical = `${SITE_URL}${pathname === "/" ? "" : pathname.replace(/\/$/, "")}`;
+    const canonical = `${getSiteUrl()}${pathname === "/" ? "" : pathname.replace(/\/$/, "")}`;
 
     upsert(
       'link[rel="canonical"]',

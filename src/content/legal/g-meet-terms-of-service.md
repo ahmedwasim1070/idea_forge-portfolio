@@ -1,9 +1,9 @@
 ---
 title: GMeet — Video Calls and Meetings
 document: Terms of Service
-subtitle: A product of Idea Forge
+subtitle: A product of IdeaForge Software
 effectiveDate: 8 August 2026
-lastUpdated: 8 August 2026
+lastUpdated: 23 September 2026
 ---
 Applies to the GMeet application for Windows, distributed through the Microsoft Store (Product ID `9PHKS01R0C0B`), and to its supporting online service.
 
@@ -11,7 +11,7 @@ Applies to the GMeet application for Windows, distributed through the Microsoft 
 
 By installing or using GMeet ("the app"), you agree to these Terms of Service. If you do not agree, do not install or use the app.
 
-The app is published by Idea Forge ("we", "us", "our"). These terms are in addition to — and do not replace — the Microsoft Store Terms of Sale and the Microsoft Standard Application License Terms, which govern your purchase and your licence to install software obtained from the Store.
+The app is published by IdeaForge Software ("we", "us", "our"). These terms are in addition to — and do not replace — the Microsoft Store Terms of Sale and the Microsoft Standard Application License Terms, which govern your purchase and your licence to install software obtained from the Store.
 
 ## 2. What the app is
 
@@ -21,7 +21,7 @@ The app is not Google Meet, and it is not a video-calling service. It does not h
 
 ## 3. Not affiliated with Google or Microsoft
 
-GMeet is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.
+GMeet is an independent third-party desktop utility developed by IdeaForge Software. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.
 
 "GMeet" is used solely as a short descriptor of the service the app helps you reach.
 
@@ -137,7 +137,7 @@ We do not publish a support email address. Everything reaches us through one cha
 
    Use the Support & Feedback form on that page for questions about these terms, billing help, bug reports, and anything else. It is the same form the app links to from Settings → Support & Feedback.
 - **Privacy Policy:** [Privacy Policy](/products/g-meet-desktop-launcher/privacy-policy)
-- **Publisher:** Idea Forge
+- **Publisher:** IdeaForge Software
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PHKS01R0C0B](https://apps.microsoft.com/detail/9PHKS01R0C0B)
 
-> GMeet is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.
+> GMeet is an independent third-party desktop utility developed by IdeaForge Software. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.

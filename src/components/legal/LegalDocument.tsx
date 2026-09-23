@@ -8,11 +8,14 @@ import type { LegalDocument as LegalDocumentType } from "@/types";
 // Interface
 interface LegalDocumentProps {
   document: LegalDocumentType;
+  // The product's name from the catalogue. Given, it heads the document in
+  // place of the frontmatter title, so a renamed product is renamed here too.
+  title?: string;
 }
 
 // All legal typography lives here, so every policy and every set of terms reads
 // the same way no matter which product it belongs to.
-function LegalDocument({ document }: LegalDocumentProps) {
+function LegalDocument({ document, title }: LegalDocumentProps) {
   const { frontmatter, body } = document;
 
   return (
@@ -21,7 +24,7 @@ function LegalDocument({ document }: LegalDocumentProps) {
       <header className="border-b border-rule pb-8">
         <p className="text-sm text-muted">{frontmatter.subtitle}</p>
         <h1 className="mt-2 font-display text-3xl font-bold tracking-tight text-ink md:text-4xl">
-          {frontmatter.title}
+          {title ?? frontmatter.title}
         </h1>
         <p className="mt-2 text-lg text-muted">{frontmatter.document}</p>
 

@@ -1,6 +1,8 @@
 // Components
 import ProductLogo from "./ProductLogo";
 import { Button, SpecList } from "@/components/ui";
+// Data
+import { publisher } from "@/data";
 // Utils
 import { getPlatformLabel } from "@/utils";
 // Types
@@ -18,7 +20,7 @@ function ProductHero({ product }: ProductHeroProps) {
   const specs: SpecItem[] = [
     { term: "Platform", value: getPlatformLabel(product.platform) },
     { term: "Published", value: product.released },
-    { term: "Publisher", value: "Idea Forge" },
+    { term: "Publisher", value: publisher.name },
   ];
 
   if (product.storeId) {

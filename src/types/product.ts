@@ -2,7 +2,7 @@
 export type ProductPlatform = "microsoft-store" | "web";
 
 // Which legal document a route refers to.
-export type LegalDocumentKind = "privacy-policy" | "terms-of-service";
+export type LegalDocumentKind = "privacy-policy" | "terms-of-service" | "terms-of-usage";
 
 // Interface
 // A legal document written and hosted in this repository.

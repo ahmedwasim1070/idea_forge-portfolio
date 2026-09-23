@@ -1,15 +1,16 @@
 // Components
 import { Container, Section } from "@/components/ui";
+import { SupportForm } from "@/components/support";
 // Hooks
 import { useDocumentMeta } from "@/hooks";
 // Data
-import { supportForm } from "@/data";
+import { publisher } from "@/data";
 
 //
 function Support() {
   useDocumentMeta(
     "Support",
-    "Support and feedback for every application published by Idea Forge, through one form.",
+    `Support and feedback for every application published by ${publisher.name}, through one form.`,
   );
 
   return (
@@ -26,32 +27,18 @@ function Support() {
               privacy? Reach out directly using the form below.
             </p>
             <p className="mt-4 text-base leading-relaxed text-white/55">
-              If the form does not load,{" "}
-              <a
-                href={supportForm.directUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-flare underline underline-offset-4 hover:text-white"
-              >
-                open it in a new tab
-              </a>
-              .
+              A confirmation is sent to the email address you enter, and that is
+              where we will reply.
             </p>
           </div>
         </Container>
       </div>
 
-      {/* The form is the Google Form the published applications already point at. */}
+      {/* The one channel every published application points at. It is sent
+          through our own mail, so no support address is published here. */}
       <Section>
-        <div className="overflow-hidden rounded-2xl border border-rule bg-surface">
-          <iframe
-            src={supportForm.embedUrl}
-            title="Idea Forge Support and Feedback form"
-            className="h-[70vh] min-h-[600px] w-full"
-            loading="lazy"
-          >
-            Loading the support form
-          </iframe>
+        <div className="max-w-3xl">
+          <SupportForm />
         </div>
       </Section>
     </>

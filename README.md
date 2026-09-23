@@ -1,10 +1,10 @@
-# Idea Forge Publisher
+# IdeaForge Software
 
-**Domain:** `ideaforge-software.netlify.app`
+**Domain:** `ideaforge-software.netlify.app` (served on its attached custom domain)
 
-The official website of **Idea Forge Publisher**, an independent software publisher and development studio.
+The official website of **IdeaForge Software**, an independent software publisher and development studio.
 
-The website serves as the central home for Idea Forge's Microsoft Store applications, software products, web projects, and product-specific legal documentation. It also presents the developer behind the publisher through a dedicated professional profile while maintaining **Idea Forge Publisher** as the primary identity.
+The website serves as the central home for IdeaForge Software's applications and software products across every platform, and their product-specific legal documentation. It also presents the developer behind the publisher through a dedicated professional profile while maintaining **IdeaForge Software** as the primary identity.
 
 ---
 
@@ -12,7 +12,7 @@ The website serves as the central home for Idea Forge's Microsoft Store applicat
 
 | Environment    | Status        | Access                                                          |
 | :------------- | :------------ | :-------------------------------------------------------------- |
-| **Production** | 🟢 **Online** | [ideaforge-software]([https://ideaforge-software.netlify.app/]) |
+| **Production** | 🟢 **Online** | [ideaforge-software](https://ideaforge-software.netlify.app/) |
 
 ---
 
@@ -25,7 +25,8 @@ The website serves as the central home for Idea Forge's Microsoft Store applicat
 - **Language:** TypeScript
 - **Routing:** React Router
 - **Styling:** Tailwind CSS v4
-- **Hosting:** Vercel
+- **Hosting:** Netlify
+- **Support Mail:** Brevo, sent from a Netlify Function
 
 ---
 
@@ -51,4 +52,4 @@ This repository is public for **portfolio and demonstration purposes only**.
 
 ---
 
-© 2026 Idea Forge Publisher. All rights reserved.
+© 2026 IdeaForge Software. All rights reserved.

@@ -1,7 +1,8 @@
 // Data
-import { SITE_URL, profile, profileLinks, publisher } from "@/data";
+import { profile, profileLinks, publisher } from "@/data";
 // Utils
 import { getPlatformLabel } from "./products";
+import { getSiteUrl } from "./site";
 // Types
 import type { Product } from "@/types";
 
@@ -12,8 +13,8 @@ export const getOrganizationSchema = (): Record<string, unknown> => ({
   "@type": "Organization",
   name: publisher.fullName,
   alternateName: publisher.name,
-  url: SITE_URL,
-  logo: `${SITE_URL}/og-image.png`,
+  url: getSiteUrl(),
+  logo: `${getSiteUrl()}/og-image.png`,
   description: publisher.description,
   founder: {
     "@type": "Person",
@@ -30,8 +31,8 @@ export const getProductSchema = (product: Product): Record<string, unknown> => (
   "@type": "SoftwareApplication",
   name: product.name,
   description: product.summary,
-  url: `${SITE_URL}/products/${product.slug}`,
-  image: `${SITE_URL}${product.logo}`,
+  url: `${getSiteUrl()}/products/${product.slug}`,
+  image: `${getSiteUrl()}${product.logo}`,
   applicationCategory: "UtilitiesApplication",
   operatingSystem:
     product.platform === "microsoft-store" ? "Windows 10, Windows 11" : "Web browser",
@@ -47,7 +48,7 @@ export const getProductSchema = (product: Product): Record<string, unknown> => (
   publisher: {
     "@type": "Organization",
     name: publisher.fullName,
-    url: SITE_URL,
+    url: getSiteUrl(),
   },
   additionalProperty: [
     {

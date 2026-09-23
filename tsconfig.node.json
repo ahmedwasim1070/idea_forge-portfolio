@@ -22,11 +22,12 @@
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
 
-    /* The sitemap plugin reads the catalogue, which imports through the alias. */
+    /* The sitemap plugin and the support function read the catalogue, which
+       imports through the alias. */
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     }
   },
-  "include": ["vite.config.ts", "src/data/products.ts", "src/types"]
+  "include": ["vite.config.ts", "netlify/functions", "src/data/products.ts", "src/types"]
 }

@@ -16,7 +16,7 @@ const catalogue: ProductRecord[] = [
     name: "GMeet - Video Calls and Meetings",
     tagline: "App Client for Google Meet",
     summary:
-      "A desktop utility that makes Google Meet easier to reach from Windows, without opening a browser first.",
+      "A desktop utility with 100K+ downloads and 1K+ daily users that makes Google Meet easier to reach from Windows, without opening a browser first.",
     description: [
       "GMeet is an independent desktop utility for Windows that makes Google Meet easier to reach. It creates and joins meetings, detects meeting links you copy, schedules meetings with reminders, offers downloadable virtual backgrounds, and can open Google Meet in a dedicated application window.",
       "The app is not Google Meet, and it is not a video-calling service. It does not host, transmit, or process any part of a call. Every meeting runs on Google's own service, between you and Google.",
@@ -44,6 +44,11 @@ const catalogue: ProductRecord[] = [
         kind: "hosted",
         label: "Terms of Service",
         file: "g-meet-terms-of-service",
+      },
+      "terms-of-usage": {
+        kind: "hosted",
+        label: "Terms of Usage",
+        file: "g-meet-terms-of-usage",
       },
     },
   },
@@ -82,6 +87,11 @@ const catalogue: ProductRecord[] = [
         label: "Terms of Service",
         file: "adblocker-for-yt-videos-terms-of-service",
       },
+      "terms-of-usage": {
+        kind: "hosted",
+        label: "Terms of Usage",
+        file: "adblocker-for-yt-videos-terms-of-usage",
+      },
     },
   },
   {
@@ -100,7 +110,7 @@ const catalogue: ProductRecord[] = [
       "Opens from a notification-area panel",
       "Keyboard shortcut access",
     ],
-    logo: "/products/SpotLaunch.png",
+    logo: "/products/spotlaunch.png",
     platform: "microsoft-store",
     released: "August 2026",
     liveUrl: "https://apps.microsoft.com/detail/9NGC63JNJ6TG",
@@ -116,6 +126,11 @@ const catalogue: ProductRecord[] = [
         kind: "hosted",
         label: "Terms of Service",
         file: "spotlaunch-terms-of-service",
+      },
+      "terms-of-usage": {
+        kind: "hosted",
+        label: "Terms of Usage",
+        file: "spotlaunch-terms-of-usage",
       },
     },
   },
@@ -146,7 +161,7 @@ const catalogue: ProductRecord[] = [
         label: "Privacy Policy",
         url: "https://rankedplaces.vercel.app/privacy-policy",
       },
-      "terms-of-service": {
+      "terms-of-usage": {
         kind: "external",
         label: "Terms of Usage",
         url: "https://rankedplaces.vercel.app/terms-of-usage",

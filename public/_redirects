@@ -1,0 +1,15 @@
+# Netlify redirects for the IdeaForge Software site.
+
+# This file is copied into dist as it is. When a custom domain is set as the
+# primary domain in the Netlify dashboard, the build appends one more rule below
+# it, sending every request made to the .netlify.app address on to that domain
+# with a 301. Removing the domain in the dashboard and redeploying drops that
+# rule, and the site is served from the .netlify.app address again.
+
+# Rules are matched from the top and the first match wins, so anything that has
+# to keep answering on the .netlify.app address is listed here, ahead of it.
+
+# Google's verification file, so the .netlify.app Search Console property stays
+# verified through the move. It is forced: an unforced rule is skipped when the
+# file exists, and the redirect below would win.
+https://ideaforge-software.netlify.app/googleb79baba94bb9d2b2.html /googleb79baba94bb9d2b2.html 200!

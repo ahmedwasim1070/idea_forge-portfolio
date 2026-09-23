@@ -34,8 +34,8 @@ function Home() {
             <div className="ember-gradient mt-8 h-1 w-24 rounded-full" />
 
             <p className="mt-8 max-w-xl text-lg leading-relaxed text-white/70">
-              Idea Forge is an independent software studio building fast,
-              focused utilities for modern digital workflows. Every product is
+              {publisher.name} is an independent software studio building fast,
+              focused solutions for modern digital workflows. Every product is
               designed, shipped, and supported directly in-house.
             </p>
 
@@ -61,8 +61,8 @@ function Home() {
             Published work
           </h2>
           <p className="mt-3 text-base leading-relaxed text-body">
-            An exhaustive repository of all software published by Idea Forge,
-            including app legals and info.
+            An exhaustive repository of all software published by{" "}
+            {publisher.name}, including app legals and info.
           </p>
         </div>
 
@@ -86,7 +86,7 @@ function Home() {
               Behind the Forge
             </h2>
             <p className="mt-4 max-w-md text-base leading-relaxed text-body">
-              Idea Forge is an independent studio founded and engineered
+              {publisher.name} is an independent studio founded and engineered
               end-to-end by {profile.name}.
             </p>
             <Link

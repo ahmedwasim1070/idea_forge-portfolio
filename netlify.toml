@@ -1,4 +1,4 @@
-# Netlify deployment for the Idea Forge site.
+# Netlify deployment for the IdeaForge Software site.
 
 [build]
   command = "npm run build"
@@ -8,6 +8,13 @@
   # Vite 7 requires Node 20.19+. Pinned to the current LTS so Netlify's default
   # cannot drift onto a version the project has never been built against.
   NODE_VERSION = "22"
+
+# The Support & Feedback form posts to a function, which keeps the Brevo key on
+# the server. BREVO_API_KEY is set under Site configuration → Environment
+# variables; the local .env is only read by `netlify dev`.
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
 
 # The site is a single-page app: every route is served the same index.html and
 # resolved by the router in the browser. Without this, the legal URLs printed on

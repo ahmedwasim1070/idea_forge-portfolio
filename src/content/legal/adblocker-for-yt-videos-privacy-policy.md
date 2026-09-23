@@ -1,18 +1,18 @@
 ---
 title: YT Video - AdBlocker & Downloader
 document: Privacy Policy
-subtitle: A product of Idea Forge
+subtitle: A product of IdeaForge Software
 effectiveDate: 14 September 2026
-lastUpdated: 14 September 2026
+lastUpdated: 23 September 2026
 ---
 
 Applies to the YT Video application for Windows, distributed through the Microsoft Store (Product ID `9PG1Z4WJM4WG`). The application has no supporting online service.
 
 > ### The Short Version
 >
-> YT Video has no user accounts, no analytics, and no database. There is no server operated by Idea Forge anywhere in the picture. The application has no backend at all.
+> YT Video has no user accounts, no analytics, and no database. There is no server operated by IdeaForge Software anywhere in the picture. The application has no backend at all.
 >
-> Everything the app remembers — your theme, your download quality, your saved videos, and your YouTube sign-in — stays on your own computer. None of it is sent to Idea Forge, because there is nowhere for it to be sent.
+> Everything the app remembers — your theme, your download quality, your saved videos, and your YouTube sign-in — stays on your own computer. None of it is sent to IdeaForge Software, because there is nowhere for it to be sent.
 >
 > Three kinds of traffic may leave your device, and none of them is sent to our servers:
 >
@@ -20,11 +20,11 @@ Applies to the YT Video application for Windows, distributed through the Microso
 > - The ad blocker's filter lists are retrieved by uBlock Origin Lite from their own publishers.
 > - The Microsoft Store handles purchases, licence checks, and application update checks.
 
-YT Video is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
+YT Video is an independent third-party desktop utility developed by IdeaForge Software. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
 
 ## 1. Who we are
 
-YT Video is published by Idea Forge ("we", "us", "our").
+YT Video is published by IdeaForge Software ("we", "us", "our").
 
 We do not publish a support email address. Everything reaches us through one channel, so nothing gets lost:
 
@@ -80,13 +80,13 @@ Inside that folder, the browser engine stores:
 - YouTube preferences, watch history, and playlists stored by YouTube itself.
 - Browser caches, temporary files, and site storage created while browsing.
 
-Idea Forge cannot read this data, does not inspect it, and does not transmit it. It is created by and for the WebView2 engine and Google's services, exactly as if you were using Microsoft Edge directly.
+IdeaForge Software cannot read this data, does not inspect it, and does not transmit it. It is created by and for the WebView2 engine and Google's services, exactly as if you were using Microsoft Edge directly.
 
 Clearing the app's cache in _Settings → Privacy → Clear browsing data_, or uninstalling the app, removes this folder.
 
 ## 4. What leaves your device
 
-The app has no telemetry, no tracking pixels, and no crash reporting service. It makes no calls to any server operated by Idea Forge.
+The app has no telemetry, no tracking pixels, and no crash reporting service. It makes no calls to any server operated by IdeaForge Software.
 
 The only traffic that leaves your computer is:
 
@@ -96,7 +96,7 @@ When you open the app, it loads YouTube's pages. That connection is between your
 
 - It carries your IP address, browser headers, and whatever cookies YouTube has set in your session.
 - It is governed entirely by [Google's Privacy Policy](https://policies.google.com/privacy).
-- Idea Forge is never a proxy, intermediary, or observer in that communication.
+- IdeaForge Software is never a proxy, intermediary, or observer in that communication.
 
 ### Ad-block filter list updates
 
@@ -113,25 +113,25 @@ Windows itself contacts the Microsoft Store on behalf of the app to:
 - Check for and download application updates.
 - Process in-app purchases.
 
-These requests are handled entirely by Windows and Microsoft, under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). Idea Forge never receives your payment information, credit card numbers, billing address, or full name from Microsoft.
+These requests are handled entirely by Windows and Microsoft, under the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement). IdeaForge Software never receives your payment information, credit card numbers, billing address, or full name from Microsoft.
 
 ## 5. Downloads
 
 The app includes a video downloader powered by `yt-dlp` and `FFmpeg`, bundled locally.
 
 - All downloading and format conversion takes place entirely on your device.
-- No video URL, video title, or downloaded file is ever sent to Idea Forge.
+- No video URL, video title, or downloaded file is ever sent to IdeaForge Software.
 - Downloaded files are saved to your chosen folder on your local drive and are never uploaded anywhere.
 
 ## 6. Accounts
 
-You do not need an Idea Forge account to use the app. There is no sign-up form, no username, and no password.
+You do not need an IdeaForge Software account to use the app. There is no sign-up form, no username, and no password.
 
-If you sign in to YouTube inside the app, that sign-in is between you and Google. Idea Forge never sees, handles, or stores your Google credentials.
+If you sign in to YouTube inside the app, that sign-in is between you and Google. IdeaForge Software never sees, handles, or stores your Google credentials.
 
 ## 7. Analytics and tracking
 
-- **No Idea Forge telemetry:** We do not track what you watch, what you search for, what you download, how long you use the app, or what buttons you click.
+- **No IdeaForge Software telemetry:** We do not track what you watch, what you search for, what you download, how long you use the app, or what buttons you click.
 - **No third-party trackers:** The app shell contains no Google Analytics, no Mixpanel, no Sentry, no Facebook SDK, and no advertising network SDKs.
 - **YouTube's own tracking:** YouTube's web pages running inside the app do what they normally do in a browser. That activity is governed by Google's policies, not ours. Where your licence allows the ad blocker, common advertising and tracking scripts are blocked by uBlock Origin Lite rules locally.
 
@@ -155,14 +155,14 @@ Reference: [Microsoft Privacy Statement](https://privacy.microsoft.com/privacyst
 
 The application offers YouTube Kids as one of its destinations. YouTube Kids is Google's own service and is governed by Google's policies.
 
-The application itself is a general-purpose viewer. It collects no personal information from users of any age, and it requires no account with Idea Forge. Parents and guardians should be aware that ad blocking, downloads, and the other paid features are purchased and managed through the Microsoft Store account signed in on the device.
+The application itself is a general-purpose viewer. It collects no personal information from users of any age, and it requires no account with IdeaForge Software. Parents and guardians should be aware that ad blocking, downloads, and the other paid features are purchased and managed through the Microsoft Store account signed in on the device.
 
 ## 10. No backend and no server logs
 
-This application has no server component operated by Idea Forge. There is:
+This application has no server component operated by IdeaForge Software. There is:
 
-- No Idea Forge API for the application to call.
-- No Idea Forge database.
+- No IdeaForge Software API for the application to call.
+- No IdeaForge Software database.
 - No backend account system.
 - No operational server log recording your use of the application.
 
@@ -206,7 +206,7 @@ We may update this policy as the app changes. The effective date at the top alwa
 
 - **Support & Feedback:** [Support & Feedback](/support)
 - **Terms of Service:** [Terms of Service](/products/yt-app-for-youtube/terms-of-service)
-- **Publisher:** Idea Forge
+- **Publisher:** IdeaForge Software
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PG1Z4WJM4WG](https://apps.microsoft.com/detail/9PG1Z4WJM4WG)
 
-> YT Video is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.
+> YT Video is an independent third-party desktop utility developed by IdeaForge Software. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC, YouTube, or any of their affiliates. YouTube, YouTube Music, and YouTube Kids are registered trademarks of Google LLC.

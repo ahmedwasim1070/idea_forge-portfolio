@@ -1,9 +1,9 @@
 ---
 title: SpotLaunch — Social Media Browser
 document: Privacy Policy
-subtitle: A product of Idea Forge
+subtitle: A product of IdeaForge Software
 effectiveDate: 19 August 2026
-lastUpdated: 19 August 2026
+lastUpdated: 23 September 2026
 ---
 Applies to the SpotLaunch desktop application for Windows, distributed through the Microsoft Store (Product ID `9NGC63JNJ6TG`).
 
@@ -19,7 +19,7 @@ Applies to the SpotLaunch desktop application for Windows, distributed through t
 
 ## 1. Who we are
 
-SpotLaunch is published by Idea Forge ("we", "us", "our").
+SpotLaunch is published by IdeaForge Software ("we", "us", "our").
 
 We do not publish a support email address. Everything reaches us through one channel, so nothing gets lost:
 
@@ -109,7 +109,7 @@ Support & feedback, Terms of Service, Privacy Policy, and Store links open in yo
 
 ## 5. Permissions the app declares
 
-SpotLaunch declares the `internetClient` capability in Windows. It is used for exactly one thing: fetching the site icons described in Section 4.1. It is not used for analytics, updates, or any communication with Idea Forge.
+SpotLaunch declares the `internetClient` capability in Windows. It is used for exactly one thing: fetching the site icons described in Section 4.1. It is not used for analytics, updates, or any communication with IdeaForge Software.
 
 ## 6. Children
 
@@ -137,7 +137,7 @@ We may update this policy as the app changes. The effective date at the top alwa
 
 - **Support & Feedback:** [Support & Feedback](/support)
 - **Terms of Service:** [Terms of Service](/products/spot-launch/terms-of-service)
-- **Publisher:** Idea Forge
+- **Publisher:** IdeaForge Software
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9NGC63JNJ6TG](https://apps.microsoft.com/detail/9NGC63JNJ6TG)
 
-> Idea Forge is an independent developer based in Pakistan. SpotLaunch is not affiliated with, endorsed by, or sponsored by Microsoft Corporation.
+> IdeaForge Software is an independent developer based in Pakistan. SpotLaunch is not affiliated with, endorsed by, or sponsored by Microsoft Corporation.

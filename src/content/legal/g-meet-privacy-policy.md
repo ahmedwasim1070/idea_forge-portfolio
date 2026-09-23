@@ -1,9 +1,9 @@
 ---
 title: GMeet — Video Calls and Meetings
 document: Privacy Policy
-subtitle: A product of Idea Forge
+subtitle: A product of IdeaForge Software
 effectiveDate: 8 August 2026
-lastUpdated: 8 August 2026
+lastUpdated: 23 September 2026
 ---
 Applies to the GMeet Desktop application for Windows, distributed through the Microsoft Store (Product ID `9PHKS01R0C0B`), and to the supporting online service the application uses.
 
@@ -17,11 +17,11 @@ Applies to the GMeet Desktop application for Windows, distributed through the Mi
 > - The app can optionally connect to your Google Calendar, only if you deliberately sign in and grant permission.
 > - The app downloads virtual background images from our server when you ask it to.
 
-GMeet is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.
+GMeet is an independent third-party desktop utility developed by IdeaForge Software. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.
 
 ## 1. Who we are
 
-GMeet is published by Idea Forge ("we", "us", "our").
+GMeet is published by IdeaForge Software ("we", "us", "our").
 
 We do not publish a support email address. Everything reaches us through one channel, so nothing gets lost:
 
@@ -190,7 +190,7 @@ We may update this policy as the app changes. The effective date at the top alwa
 
 - **Support & Feedback:** [Support & Feedback](/support)
 - **Terms of Service:** [Terms of Service](/products/g-meet-desktop-launcher/terms-of-service)
-- **Publisher:** Idea Forge
+- **Publisher:** IdeaForge Software
 - **Microsoft Store Listing:** [https://apps.microsoft.com/detail/9PHKS01R0C0B](https://apps.microsoft.com/detail/9PHKS01R0C0B)
 
-> GMeet is an independent third-party desktop utility developed by Idea Forge. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.
+> GMeet is an independent third-party desktop utility developed by IdeaForge Software. It is not affiliated with, authorized, maintained, sponsored, or endorsed by Google LLC or any of its affiliates. Google, Google Meet, and Google Calendar are registered trademarks of Google LLC.

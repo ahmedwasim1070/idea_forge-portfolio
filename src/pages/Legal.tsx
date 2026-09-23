@@ -6,6 +6,8 @@ import { LegalDocument } from "@/components/legal";
 import { RelatedProducts } from "@/components/product";
 // Hooks
 import { useDocumentMeta } from "@/hooks";
+// Data
+import { publisher } from "@/data";
 // Content
 import { getLegalDocument } from "@/content";
 // Utils
@@ -27,7 +29,7 @@ function Legal() {
   useDocumentMeta(
     legalDocument ? `${product?.name} ${legalDocument.frontmatter.document}` : "Not found",
     legalDocument
-      ? `The ${legalDocument.frontmatter.document.toLowerCase()} for ${product?.name}, published by Idea Forge.`
+      ? `The ${legalDocument.frontmatter.document.toLowerCase()} for ${product?.name}, published by ${publisher.name}.`
       : undefined
   );
 
@@ -51,7 +53,7 @@ function Legal() {
       {/*  */}
       <Container>
         <div className="pb-20">
-          <LegalDocument document={legalDocument} />
+          <LegalDocument document={legalDocument} title={product.name} />
         </div>
       </Container>
 

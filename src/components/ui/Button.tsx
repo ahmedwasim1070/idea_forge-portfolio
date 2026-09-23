@@ -18,16 +18,35 @@ const variantClasses: Record<ButtonVariant, string> = {
 // Interface
 interface ButtonProps {
   children: ReactNode;
-  href: string;
+  // Without an address the button is a real <button>, e.g. to submit a form.
+  href?: string;
+  type?: "button" | "submit";
+  disabled?: boolean;
   variant?: ButtonVariant;
   className?: string;
 }
 
 //
-function Button({ children, href, variant = "primary", className = "" }: ButtonProps) {
+function Button({
+  children,
+  href,
+  type = "button",
+  disabled = false,
+  variant = "primary",
+  className = "",
+}: ButtonProps) {
+  const classes = `inline-flex items-center justify-center gap-2 rounded-lg px-5 py-2.5 text-sm font-medium transition-colors disabled:cursor-not-allowed disabled:opacity-60 ${variantClasses[variant]} ${className}`;
+
+  if (!href) {
+    return (
+      <button type={type} disabled={disabled} className={classes}>
+        {children}
+      </button>
+    );
+  }
+
   // Anything that is not a site route opens in a new tab.
   const isExternal = !href.startsWith("/");
-  const classes = `inline-flex items-center justify-center gap-2 rounded-lg px-5 py-2.5 text-sm font-medium transition-colors ${variantClasses[variant]} ${className}`;
 
   if (isExternal) {
     return (
